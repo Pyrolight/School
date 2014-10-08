@@ -1,0 +1,136 @@
+/* Author: Michael Fesser
+ * Date: Feb 28, 2014
+ * Purpose: Some basic CSS to improve the look of the page.  Reused some CSS and
+            attempted to make some new CSS based on the feel of the portfolio project
+            and looking at bootstrap.  It looks better, is much simpler, and is
+            more reusable.  Expect to see this css for everything with some modifications.
+ * Last Revision: April 4, 2014
+ * Dependencies: addBook.php, process.php, book.class.php, submitButton.php
+ */
+
+html {  /* Taken from http://paulmason.name/item/full-screen-background-image-pure-css-code Used to make backgroup 100% screen size.*/
+    height: 100%;
+    width:100%;
+}
+
+body { /* Taken from http://ie.microsoft.com/TEStdrive/Graphics/CSSGradientBackgroundMaker/Default.html NOW IN GREEN!!!!!  This could be a keeper */
+
+/* IE10 Consumer Preview */ 
+background-image: -ms-radial-gradient(center, ellipse farthest-corner, #399127 0%, #165416 100%);
+
+/* Mozilla Firefox */ 
+background-image: -moz-radial-gradient(center, ellipse farthest-corner, #399127 0%, #165416 100%);
+
+/* Opera */ 
+background-image: -o-radial-gradient(center, ellipse farthest-corner, #399127 0%, #165416 100%);
+
+/* Webkit (Safari/Chrome 10) */ 
+background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #399127), color-stop(1, #165416));
+
+/* Webkit (Chrome 11+) */ 
+background-image: -webkit-radial-gradient(center, ellipse farthest-corner, #399127 0%, #165416 100%);
+
+/* W3C Markup, IE10 Release Preview */ 
+background-image: radial-gradient(ellipse farthest-corner at center, #399127 0%, #165416 100%);
+    font-family: sans-serif;
+}
+
+input, label { /* Taken from Fin1te on StackOverflow. Put the labels above the input fields.*/
+    display:block;
+}
+
+label{ /* Label formatting. */
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+input{ /* Format the borders for the input fields. */
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+}
+
+.box{ /* Format the div that holds all the fields */
+    background:#F6F6F6;
+    padding: 30px;
+    margin-left: 10%;
+    margin-right:10%;
+}
+
+#submit{  /* Button formatting. */
+    background: darkslategray;
+    color: white;
+    left:180px;
+    width:100px;
+    font-weight: bold;
+    padding:8px;
+    border-radius:10px;
+}
+
+.inputField{ /* Formatting for the input fields. */
+    border-radius:4px;
+    height: 25px;
+    width: 33.3%;
+    padding-left:10px; 
+    padding-right:10px;   
+    max-width: 33.3%;
+}
+
+#box2{ /* Formatting to match the side of the "box" divs on both pages.  Can be done with JQuery but JQuery is evil. */
+    background:#F6F6F6;
+    padding: 5px;
+    margin-left: 10%;
+    margin-right:10%;
+    height: 482px;
+    text-align: center;
+}
+
+#vetricalAlign{ /* Partially taken from http://phrogz.net/CSS/vertical-align/  Centres text vertically. */
+    position: relative;
+    top: 50%;
+}
+
+a:link{ /* Make the hyper-link a different colour. */
+    color: #008AE6;
+}
+
+/* format the elements to the left hand margin */
+.displayBook{
+    text-align: left;
+    height: 100%;  
+}
+
+/* slightly adjust the table for a nicer appearance from the edge of the box */
+table {
+    margin:10px;
+}
+
+/* Format book element title */
+#bookCreated{
+    margin-left: 12px;
+    font-size: 20px;
+    font-weight: bold;   
+}
+
+/* DrDoc http://www.webmasterworld.com/css/3374888.htm  Format the first column */
+tr > td:first-child { 
+    font-weight: bold;
+}
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child  Firefox seems to not like last-child atm Format the second column */
+tr > td:nth-child(2n) { 
+    padding-left: 10px;
+}
+
+/* Displays elements in a row */
+.row{
+    display:inline-block;
+    margin-bottom: 15px;
+}
+
+/* Simple formatting to the required fields warning */
+#requiredFields{
+    color: red;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
