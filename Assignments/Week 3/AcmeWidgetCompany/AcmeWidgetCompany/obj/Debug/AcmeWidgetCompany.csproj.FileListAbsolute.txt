@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2012\Projects\AcmeWidgetCompany\AcmeWidgetCompany\bin\Debug\AcmeWidgetCompany.exe.config
+c:\users\michael\documents\visual studio 2012\Projects\AcmeWidgetCompany\AcmeWidgetCompany\bin\Debug\AcmeWidgetCompany.exe
+c:\users\michael\documents\visual studio 2012\Projects\AcmeWidgetCompany\AcmeWidgetCompany\bin\Debug\AcmeWidgetCompany.pdb
+c:\users\michael\documents\visual studio 2012\Projects\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.acmeWidgets.resources
+c:\users\michael\documents\visual studio 2012\Projects\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2012\Projects\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2012\Projects\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.exe
+c:\users\michael\documents\visual studio 2012\Projects\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.pdb
+c:\Users\Michael\Documents\Visual Studio 2012\Projects\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.csprojResolveAssemblyReference.cache

@@ -1,0 +1,58 @@
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\InternetMerchandiseProvider.InternetShippingForm.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\InternetMerchandiseProvider.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Internet Merchandise Provider.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\InternetMerchandiseProvider.exe.config
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\InternetMerchandiseProvider.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\InternetMerchandiseProvider.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider\WindowsFormsApplication2\bin\Debug\InternetMerchandiseProvider.exe.config
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider\WindowsFormsApplication2\obj\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider\WindowsFormsApplication2\obj\Debug\InternetMerchandiseProvider.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider\WindowsFormsApplication2\bin\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider\WindowsFormsApplication2\bin\Debug\InternetMerchandiseProvider.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider\WindowsFormsApplication2\obj\Debug\Internet Merchandise Provider.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider\WindowsFormsApplication2\obj\Debug\InternetMerchandiseProvider.InternetShippingForm.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider\WindowsFormsApplication2\obj\Debug\InternetMerchandiseProvider.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider\WindowsFormsApplication2\obj\Debug\Internet Merchandise Provider.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider1\WindowsFormsApplication2\bin\Debug\InternetMerchandiseProvider.exe.config
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider1\WindowsFormsApplication2\obj\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider1\WindowsFormsApplication2\obj\Debug\InternetMerchandiseProvider.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider1\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.exe.config
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider1\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider1\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider1\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider1\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.pdb
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider1\InternetMerchandiseProvider\obj\Debug\Internet Merchandise Provider.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider1\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.InternetShippingForm.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider1\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider1\InternetMerchandiseProvider\obj\Debug\Internet Merchandise Provider.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.exe.config
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\Visual Studio 2013\Projects\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.pdb
+C:\Users\mfesser\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.exe.config
+C:\Users\mfesser\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.exe
+C:\Users\mfesser\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.pdb
+C:\Users\mfesser\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.exe
+C:\Users\mfesser\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.pdb
+C:\Users\mfesser\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\Internet Merchandise Provider.csprojResolveAssemblyReference.cache
+C:\Users\mfesser\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.InternetShippingForm.resources
+C:\Users\mfesser\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.Properties.Resources.resources
+C:\Users\mfesser\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\Internet Merchandise Provider.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.exe.config
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.pdb
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.InternetShippingForm.resources
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\Internet Merchandise Provider.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\InternetMerchandiseProvider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.pdb
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.exe.config
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.pdb
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.pdb
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\obj\Debug\Internet Merchandise Provider.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.InternetShippingForm.resources
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\obj\Debug\Internet Merchandise Provider.csproj.GenerateResource.Cache
