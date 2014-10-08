@@ -1,0 +1,10 @@
+c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\bin\Debug\menuform.exe.config
+c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\obj\Debug\menuform.csprojResolveAssemblyReference.cache
+c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\obj\Debug\menuform.Form1.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\obj\Debug\menuform.Properties.Resources.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\obj\Debug\menuform.csproj.GenerateResource.Cache
+c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\bin\Debug\menuform.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\bin\Debug\menuform.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\obj\Debug\menuform.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\obj\Debug\menuform.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\obj\Debug\menuform.Form2.resources
