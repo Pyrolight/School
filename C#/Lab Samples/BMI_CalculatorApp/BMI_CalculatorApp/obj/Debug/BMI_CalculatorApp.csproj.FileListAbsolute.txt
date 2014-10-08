@@ -1,0 +1,13 @@
+C:\CSharp_4thEdition\Ch03\Ch03_Solutions\Ch03_10\BMI_CalculatorApp\BMI_CalculatorApp\bin\Debug\BMI_CalculatorApp.exe.config
+C:\CSharp_4thEdition\Ch05\Ch03_10___BMI\BMI_CalculatorApp\BMI_CalculatorApp\bin\Debug\BMI_CalculatorApp.exe.config
+C:\CSharp_4thEdition\Ch05\Ch03_10___BMI\BMI_CalculatorApp\BMI_CalculatorApp\obj\Debug\BMI_CalculatorApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch05\Ch03_10___BMI\BMI_CalculatorApp\BMI_CalculatorApp\bin\Debug\BMI_CalculatorApp.exe
+C:\CSharp_4thEdition\Ch05\Ch03_10___BMI\BMI_CalculatorApp\BMI_CalculatorApp\bin\Debug\BMI_CalculatorApp.pdb
+C:\CSharp_4thEdition\Ch05\Ch03_10___BMI\BMI_CalculatorApp\BMI_CalculatorApp\obj\Debug\BMI_CalculatorApp.exe
+C:\CSharp_4thEdition\Ch05\Ch03_10___BMI\BMI_CalculatorApp\BMI_CalculatorApp\obj\Debug\BMI_CalculatorApp.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_03\BMI_CalculatorApp\BMI_CalculatorApp\bin\Debug\BMI_CalculatorApp.exe.config
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_03\BMI_CalculatorApp\BMI_CalculatorApp\obj\Debug\BMI_CalculatorApp.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_03\BMI_CalculatorApp\BMI_CalculatorApp\obj\Debug\BMI_CalculatorApp.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_03\BMI_CalculatorApp\BMI_CalculatorApp\bin\Debug\BMI_CalculatorApp.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_03\BMI_CalculatorApp\BMI_CalculatorApp\bin\Debug\BMI_CalculatorApp.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_03\BMI_CalculatorApp\BMI_CalculatorApp\obj\Debug\BMI_CalculatorApp.csprojResolveAssemblyReference.cache

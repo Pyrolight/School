@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\FirstWindowsApp\FirstWindowsApp\bin\Debug\FirstWindowsApp.exe.config
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\FirstWindowsApp\FirstWindowsApp\bin\Debug\FirstWindowsApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\FirstWindowsApp\FirstWindowsApp\bin\Debug\FirstWindowsApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\FirstWindowsApp\FirstWindowsApp\obj\Debug\FirstWindowsApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\FirstWindowsApp\FirstWindowsApp\obj\Debug\FirstWindowsApp.FirstWindowsApp.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\FirstWindowsApp\FirstWindowsApp\obj\Debug\FirstWindowsApp.Properties.Resources.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\FirstWindowsApp\FirstWindowsApp\obj\Debug\FirstWindowsApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\FirstWindowsApp\FirstWindowsApp\obj\Debug\FirstWindowsApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\FirstWindowsApp\FirstWindowsApp\obj\Debug\FirstWindowsApp.pdb

@@ -1,0 +1,9 @@
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\bin\Debug\TripCalculatorApp.exe.config
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.Properties.Resources.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.TripCalculatorApp.resources
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\bin\Debug\TripCalculatorApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\bin\Debug\TripCalculatorApp.pdb
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.exe
+C:\CSharp_4thEdition\Ch09\Ch09_Solutions\Ch09_03\TripCalculatorApp\TripCalculatorApp\obj\Debug\TripCalculatorApp.pdb

@@ -1,0 +1,5 @@
+C:\CSharp_4thEdition\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\SecondsConverter\bin\Debug\SecondsConverter.exe.config
+C:\CSharp_4thEdition\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\SecondsConverter\bin\Debug\SecondsConverter.exe
+C:\CSharp_4thEdition\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\SecondsConverter\bin\Debug\SecondsConverter.pdb
+C:\CSharp_4thEdition\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\SecondsConverter\obj\Debug\SecondsConverter.exe
+C:\CSharp_4thEdition\Ch03\Ch03_Solutions\Ch03_04\SecondsConverter\SecondsConverter\obj\Debug\SecondsConverter.pdb

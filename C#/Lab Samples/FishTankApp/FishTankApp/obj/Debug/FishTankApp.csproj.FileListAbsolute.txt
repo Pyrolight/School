@@ -1,0 +1,6 @@
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_01\FishTankApp\FishTankApp\bin\Debug\FishTankApp.exe.config
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_01\FishTankApp\FishTankApp\bin\Debug\FishTankApp.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_01\FishTankApp\FishTankApp\bin\Debug\FishTankApp.pdb
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_01\FishTankApp\FishTankApp\obj\Debug\FishTankApp.csprojResolveAssemblyReference.cache
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_01\FishTankApp\FishTankApp\obj\Debug\FishTankApp.exe
+C:\CSharp_4thEdition\Ch05\Ch05_Solutions\Ch05_01\FishTankApp\FishTankApp\obj\Debug\FishTankApp.pdb

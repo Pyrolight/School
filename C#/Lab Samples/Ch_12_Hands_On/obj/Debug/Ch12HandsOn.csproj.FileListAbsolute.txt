@@ -1,0 +1,28 @@
+C:\Users\Anita\Documents\C# 2008\Projects\ch12handson\Ch12HandsOn\obj\Debug\Ch12HandsOn.exe
+C:\Users\Anita\Documents\C# 2008\Projects\ch12handson\Ch12HandsOn\obj\Debug\Ch12HandsOn.pdb
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 12\Ch12HandsOn\obj\Debug\Ch12HandsOn.exe
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 12\Ch12HandsOn\obj\Debug\Ch12HandsOn.pdb
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 12\Ch12HandsOn\bin\Debug\Ch12HandsOn.exe
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 12\Ch12HandsOn\bin\Debug\Ch12HandsOn.pdb
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 12\Ch12HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 12\Ch12HandsOn\obj\Debug\Ch12HandsOn.AboutForm.resources
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 12\Ch12HandsOn\obj\Debug\Ch12HandsOn.BaseForm.resources
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 12\Ch12HandsOn\obj\Debug\Ch12HandsOn.ClothingSaleForm.resources
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 12\Ch12HandsOn\obj\Debug\Ch12HandsOn.Properties.Resources.resources
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 12\Ch12HandsOn\obj\Debug\Ch12HandsOn.SummaryForm.resources
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 12\Ch12HandsOn\obj\Debug\Ch12HandsOn.csproj.GenerateResource.Cache
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Ch_12_Hands_On\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.exe
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Ch_12_Hands_On\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.pdb
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2012\Faculty Samples\Chapt3 Classes\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.exe
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2012\Faculty Samples\Chapt3 Classes\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.pdb
+C:\Users\Michael\Documents\GitHub\C#\Lab Samples\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.exe
+C:\Users\Michael\Documents\GitHub\C#\Lab Samples\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.pdb
+C:\Users\Michael\Documents\GitHub\C#\Lab Samples\Ch_12_Hands_On\bin\Debug\Ch12HandsOn.exe
+C:\Users\Michael\Documents\GitHub\C#\Lab Samples\Ch_12_Hands_On\bin\Debug\Ch12HandsOn.pdb
+C:\Users\Michael\Documents\GitHub\C#\Lab Samples\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\C#\Lab Samples\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.AboutForm.resources
+C:\Users\Michael\Documents\GitHub\C#\Lab Samples\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.BaseForm.resources
+C:\Users\Michael\Documents\GitHub\C#\Lab Samples\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.ClothingSaleForm.resources
+C:\Users\Michael\Documents\GitHub\C#\Lab Samples\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\C#\Lab Samples\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.SummaryForm.resources
+C:\Users\Michael\Documents\GitHub\C#\Lab Samples\Ch_12_Hands_On\obj\Debug\Ch12HandsOn.csproj.GenerateResource.Cache
