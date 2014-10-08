@@ -1,0 +1,205 @@
+/* Author: Michael Fesser
+ * Date: Jan 26, 2014
+ * Purpose: Some basic CSS to improve the look of the page.  A lot is not very reusable but it 
+ * serves it purpose.
+ * Last Revision: Feb 3, 2014
+ * Dependencies: orderVegetables.php, processVeggies.php, menuBar.php, viewOrders.php, resetOrders.php
+ */
+
+html {  /* Taken from http://paulmason.name/item/full-screen-background-image-pure-css-code */
+    height: 100%;
+    width:100%;
+}
+
+body { /* Taken from http://ie.microsoft.com/TEStdrive/Graphics/CSSGradientBackgroundMaker/Default.html What can I say?  I like the color */
+
+    /* IE10 Consumer Preview */ 
+    background-image: -ms-linear-gradient(top, #5081BC 0%, #83B2DE 100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-linear-gradient(top, #5081BC 0%, #83B2DE 100%);
+
+    /* Opera */ 
+    background-image: -o-linear-gradient(top, #5081BC 0%, #83B2DE 100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #5081BC), color-stop(1, #83B2DE));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-linear-gradient(top, #5081BC 0%, #83B2DE 100%);
+
+    /* W3C Markup, IE10 Release Preview */ 
+    background-image: linear-gradient(to bottom, #5081BC 0%, #83B2DE 100%);
+    font-family: sans-serif;
+}
+
+table {  /* Format the table without using depreciated techniques */
+    border-style: double;
+}
+
+.tableElements{  /* Format the table without using depreciated techniques */
+    border-style: solid; 
+    width:100%;
+}
+input{  /* Lined up input fields with all other elements */
+    position: absolute;
+    left: 488px;
+}
+
+#titleImage{  /* Format banner image. */
+    background-image:url('banner.jpg');
+    height: 200px;
+    text-align: center;
+}
+
+#title{  /* Format text in banner. */
+    line-height:200px;
+    font-weight: bold;
+    font-size: 50px;  
+    color:azure;
+    text-shadow: 2px 2px black;
+}
+
+.formattingFirstElement{  /* Format the first element */
+    margin-top: 5px;
+    padding-left: 5px;
+    padding-top: 10px;
+    background: lightgray;   
+}
+
+.formattingOrders{  /* Specific formatting for the viewOrders.php page. */
+    margin-top: 5px;
+    padding-left: 5px;
+    padding-top: 76px;
+    padding-bottom: 76px;
+    text-align: center;
+    background: lightgray; 
+}
+
+.formatting{  /* General formatting */
+    padding-left: 5px;
+    padding-top: 10px;
+    background: lightgray;
+    
+} 
+
+.formattingSpecial{  /* Used to format some clock elements */
+    padding-left: 5px;
+    padding-top: 20px;
+    background: lightgray;
+}
+
+.formattingReset{  /* Specific formatting for the resetOrders.php page. */
+    margin-top:5px;
+    padding-left: 5px;
+    padding-top: 53px;
+    padding-bottom: 53px;
+    background: lightgray;
+    text-align: center;
+}
+
+.formattingLastElement{  /* Format the final element */
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: lightgray;
+}
+
+.submitFormatting{  /* Add some color to form. */
+    padding-left: 5px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    background: lightgray;
+}
+
+#submit{  /* Button formatting. */
+    background: black;
+    color: white;
+    left:180px;
+    font-weight: bold;
+    padding:8px;
+    border-radius:10px;
+}
+
+.errorText{  /* Used for both error text and "required" text. */
+    position: absolute;
+    left: 650px;
+    color: red;
+}
+
+.labelFormat{  /* Position the prices. */
+    position: absolute;
+    left: 350px;
+}
+
+.clockFormat{
+    text-align: center;
+}
+
+.errorphp{  /* Formating for php error messages. */
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color:whitesmoke;
+}
+
+.outputNameVariableFormatting{  /* Formatting for the user output on the processVegies page. */
+    position: absolute;
+    left: 488px;   
+}
+
+.outputVariableFormatting{  /*  Formatting for the produce output on the processVegies page. */
+    position: absolute;
+    left: 488px;   
+}
+
+.formatMenu{  /* This formats the td in the table where the menu is. */
+    text-align: center;
+    font-size: 20px;
+    width:   110px;
+    background-image: -ms-radial-gradient(center, ellipse farthest-corner, #3C555E 0%, #002130 100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-radial-gradient(center, ellipse farthest-corner, #3C555E 0%, #002130 100%);
+
+    /* Opera */ 
+    background-image: -o-radial-gradient(center, ellipse farthest-corner, #3C555E 0%, #002130 100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #3C555E), color-stop(1, #002130));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-radial-gradient(center, ellipse farthest-corner, #3C555E 0%, #002130 100%);
+
+    /* W3C Markup, IE10 Release Preview */ 
+    background-image: radial-gradient(ellipse farthest-corner at center, #3C555E 0%, #002130 100%);
+}
+
+.formatMenu2{  /* This formats the individual elements of the menu */
+    border-style: double;
+    border: solid black;
+    padding: 5px;
+    border-radius:5px;
+}
+
+a:link {
+    color:whitesmoke;
+    text-decoration: none;
+}    
+a:visited {
+    color:whitesmoke;
+    text-decoration: none;
+}  
+a:hover {
+    color:#FF00FF;
+}  
+a:active {
+    color:#0000FF;
+}  
+
+#deleteLink{
+color:black;
+font-size: 20px;
+font-weight: bolder;
+text-align: center;
+}  

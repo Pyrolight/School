@@ -1,0 +1,54 @@
+/* Author: Michael Fesser
+ * Date: April 24, 2014
+ * Purpose: This is some basic CSS to beautify the page according to requirements.
+ * Last Revision: April 24, 2014
+ * Dependencies: newToDo, insertToDo, displayToDo, deleteToDo
+ */
+
+
+body{ /* required background colour */
+    background-color: beige;
+}
+
+.mainDiv{ /* Main div formatting */
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+    width: 650px;
+    border: 4px solid green;
+    background: white;
+    padding:2px; 
+}
+
+.footer{ /* Footer formatting */
+    width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;     
+}
+
+table#secondTable{
+    width: 100%;
+    border: 1px solid black;   
+}
+
+table#secondTable th {
+    border: 1px solid black;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+table#secondTable td{
+    border: 1px solid black;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+
+th{ /* Format table headings */
+    font-weight: bold;
+}
+

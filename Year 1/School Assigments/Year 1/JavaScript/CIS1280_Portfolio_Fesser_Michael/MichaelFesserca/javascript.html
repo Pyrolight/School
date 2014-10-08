@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="My javascript page">
+        <meta name="author" content="Michael Fesser">
+        <meta name="keywords" content="michael, fesser, personal, programming, school, project, javascript, html">
+
+        <!-- Author: Michael Fesser
+             Date: 12/17/2013
+             Purpose: This page is intended for all my attempts at Javascript
+             Last Revision: 12/17/2013
+             Dependencies: index.html
+        -->
+
+        <title>Javascript</title>
+
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.css" rel="stylesheet">
+
+        <!-- Add custom CSS here -->
+        <link href="css/business-casual.css" rel="stylesheet">	
+
+        <noscript>
+        "You don't have Javascript turned on! In order for this page to function properly you must turn on Javascript."
+        </noscript>
+    </head>
+    <body>
+        <nav class="navbar" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html">Business Casual</a>
+                </div>
+
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse navbar-ex1-collapse">
+                    <ul class="nav navbar-nav">
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About</a></li>
+                        <li><a href="javascript.html">Javascript</a></li>
+                        <li><a href="blog.html">Blog</a></li>		
+                        <li><a href="about.html#resume">Resume</a></li>
+                        <li><a href="about.html#contact">Contact</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container -->
+        </nav>
+
+        <div class="container topOffSet">
+            <div class="row">
+                <div class="box">
+                    <div class="col-lg-12 text-center">                      
+                        <hr>
+                        <h2 class="intro-text text-center">Javascript Examples</h2>
+                        <hr> 
+                    </div>
+                    <p>Here are a few very basic JavaScript examples I created, both of which are forms.</p>
+                    <p>The first form is designed to allow a student to find what a section of our programing course is worth by comparing the change in the overall grade. The second uses the section value calculated in the first form and then allows a student to do two main things.</p>
+
+                    <ul>
+                        <li>First it allows the student to calculate the value of any given project in a section of the course as well as their current mark for that section.</li>  
+                        <li>Second it allows the student to calculate their overall mark. The idea is to allow the student the ability to see what they would need to get a certain overall mark based on their current mark.</li>
+                    </ul>   
+                    <p>Click the label above each field for a brief description of the field's function. Click the label again to close the description.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="box">
+                    <!-- This form is used for to calculate four things.  It finds the value for the section, the value of a project in a section, the value of each mark in a section, and the value for each mark out of the overall total. -->
+                    <!-- Each label in both forms have a toggle function -->
+                    <form role="form" id="test" class="toggleDefinition">
+                        <div class="row">
+                            <div class="form-group col-lg-4">
+                                <label>Project Value</label>
+                                <p>This is the total value of the project.</p>
+                                <input type="text" id="projectMarkTotal" value="" class="form-control">
+                            </div>
+                            <div class="form-group col-lg-4">
+                                <label>Your Mark Point Value</label>
+                                <p>This is your mark for the project in the form of x/total.  Do not use this field and "Percent Value Mark" at the same time.</p>
+                                <input type="text" id="pointValueMark" value="" class="form-control" onblur="validatePoints()">
+                            </div>
+                            <div class="form-group col-lg-4">
+                                <label>Your Mark Percentage Value</label>
+                                <p class="smaller">This is your mark for the project in the form of a percentage.  Do not use this field and "Point Value Mark" at the same time.</p>
+                                <input type="text" id="percentageMark" value="" class="form-control" onblur="validatePercent()">
+                            </div> 
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-lg-3">
+                                <label>Section Percent before Change</label>
+                                <p class="smaller">This is your mark for the section before you updated your marks.</p>
+                                <input type="text" id="sectionBeforeChange" value="" class="form-control">
+                            </div>
+                            <div class="form-group col-lg-3">
+                                <label>Section Percent after Change</label>
+                                <p class="smaller">This is your mark for the section after you updated your marks.</p>
+                                <input type="text" id="sectionAfterChange" value="" class="form-control">
+                            </div>
+                            <div class="form-group col-lg-3">
+                                <label>Total Percent before Change</label>
+                                <p class="smaller">This is your mark for the whole course before you updated your marks.</p>
+                                <input type="text" id="totalBeforeChange" value="" class="form-control">
+                            </div>
+                            <div class="form-group col-lg-3">
+                                <label>Total Percent after Change</label>
+                                <p class="smaller">This is your mark for the whole course after you updated your marks.</p>
+                                <input type="text" id="totalAfterChange" value="" class="form-control">
+                            </div>
+                        </div>
+                        <!-- User does not need to access these fields -->
+                        <div class="row">
+                            <div class="form-group col-lg-3">
+                                <label>Section Percentage per Mark</label>
+                                <p class="smaller">This is the percentage value for each mark in the section.</p>
+                                <input type="text" id="sectionPercentPerMark" value="0" class="form-control" disabled>
+                            </div>
+                            <div class="form-group col-lg-3">
+                                <label>Total Percentage per Mark</label>
+                                <p class="smaller">This is the percentage value for each mark for the whole course.</p>
+                                <input type="text" id="totalPercentPerMark" value="0" class="form-control" disabled>
+                            </div>
+                            <div class="form-group col-lg-3">
+                                <label>Project Value in Section</label>
+                                <p class="smaller">This is the percentage value for each project in the section.</p>
+                                <input type="text" id="projectValueSection" value="0" class="form-control" disabled>
+                            </div>
+                            <div class="form-group col-lg-3">
+                                <label>Section Weighting</label>
+                                <p class="smaller">This is the value of the section.</p>
+                                <input type="text" id="sectionValue" value="0" class="form-control" disabled>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="form-group col-lg-3">
+                                <div><br />
+                                    <button type="button" id="submit1" class="btn btn-default" onclick="calculateSectionWeight();">Submit Form</button>
+                                    <button type="button" id="reset1" class="btn btn-default" onclick="reset()">Reset</button>
+                                </div>                                   
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <div class="box">
+                    <!-- This form is used to calculate the total mark for the section and the total mark for the course -->
+                    <form role="form" class="toggleDefinition">
+                        <div class="row">
+                            <div class="form-group col-lg-3">
+                                <label>Section Weighting</label>
+                                <p class="smaller">This is the value of the section.</p>
+                                <input type="text" id="totalWeight" value="" class="form-control">
+                            </div>
+                            <div class="form-group col-lg-3">
+                                <label>Project Value</label>
+                                <p class="smaller">This is the total value of the project.</p>
+                                <input type="text" id="currentProjectMark" value="" class="form-control">
+                            </div>
+                            <div class="form-group col-lg-3">
+                                <label>Your Mark Point Value</label>
+                                <p class="smaller">This is your mark for the project in the form of x/total.  Do not use this field and Percent Value Mark at the same time.</p>
+                                <input type="text" id="yourPointMark" value="" class="form-control" onblur="validatePoints()">
+                            </div>
+                            <div class="form-group col-lg-3">
+                                <label>Your Mark Percentage Value</label>
+                                <p class="smaller">This is your mark for the project in the form of a percentage.  Do not use this field and Point Value Mark at the same time.</p>
+                                <input type="text" id="yourPercentageMark" value="" class="form-control" onblur="validatePercent()">
+                            </div>
+                        </div>
+                        <!-- User does not need to access these fields -->
+                        <div class="row">
+                            <div class="form-group col-lg-4">
+                                <label>Section Total</label>
+                                <p class="smaller">This is your current mark in the section.</p>
+                                <input type="text" id="sectionTotal" value="0" class="form-control" disabled>
+                            </div>                 
+                            <div class="form-group col-lg-4">
+                                <label>Last Section Mark</label>
+                                <p class="smaller">This is the overall mark for the last section submitted.</p>
+                                <input type="text" id="lastSectionTotal" value="0" class="form-control" disabled>
+                            </div>
+                            <div class="form-group col-lg-4">
+                                <label>Final Mark</label>
+                                <p class="smaller">This is the current total for all sections.</p>
+                                <input type="text" id="finalMark" value="0" class="form-control" disabled>
+                            </div>
+                        </div><br />
+                        <div class="row">
+                            <div class="form-group col-lg-12">
+                                <div>
+                                    <button type="button" id="submit2" class="btn btn-default" onclick="calculateSectionTotal();">Submit Mark</button>
+                                    <button type="button" id="submit3" class="btn btn-default" onclick="calculateFinalTotal();">Submit Section</button>
+                                    <button type="button" id="reset2" class="btn btn-default" onclick="reset();">Reset</button>                           
+
+                                    <!-- Used to hold variables -->
+                                    <input type="text" id="currentMark" value="0" style="visibility:hidden" disabled>
+                                    <input type="text" id="totalProjectMark" value="0" style="visibility:hidden" disabled>
+                                    <input type="text" id="totalYourMark" value="0" style="visibility:hidden" disabled>
+                                    <input type="text" id="totalPercentage" value="0" style="visibility:hidden" disabled>
+                                </div> 
+                            </div>
+                        </div>
+                        <ul>
+                            <li>Click Submit Mark to calculate section.</li>
+                            <li>Click Submit Section to calculate your final mark by adding sections.</li>
+                        </ul>                       
+                    </form>
+                </div>
+            </div>
+
+            <!-- Return to top of page button -->
+            <div class="col-lg-12 text-center"> 
+                <a href="#top" class="btn btn-default btn-lg">Back to Top</a>
+            </div><br />
+        </div><!-- /.container -->
+
+        <footer>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <p>Copyright &copy; Michael Fesser 2013</p>                        
+                    </div>
+
+                    <!-- clock -->
+                    <div class="col-lg-12 text-center" id="clock"></div>  
+                </div>
+            </div><br />
+        </footer>
+
+        <!-- JavaScript -->
+        <script src="js/jquery-1.10.2.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/generalJs.js"></script>
+        <script src="js/jqueryMike.js"></script>
+    </body>
+</html>

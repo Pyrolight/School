@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<!-- Author: Michael Fesser
+		 Date: Oct 25, 2013
+		 Purpose: To create a simple app that calculated the tip and total cost from the values
+		 for the price of a meal and the percentage tip they wish to give.
+		 Last Revision: Oct 28, 2013
+		 Dependencies: None
+	-->
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<link rel="stylesheet" href="assignment4.css" type="text/css"/>
+		<script src="myJsLibrary.js"></script>	
+		
+		<noscript>
+				"You don't have Javascript turned on! In order for this page to function properly you must turn on Javascript."
+		</noscript>
+	</head>
+	<body>
+	
+		<form name="tipCalculator" id="tipCalculator">
+			The cost of the meal?  <input type="text" name="bill" id="bill"><br>
+			<span id = "positionTipText">The percentage tip?</span>  <input type="text" name="tipPercentage" id="tipPercentage"><br><br><br>
+			<input id = "calculateTipButton" type="button" name="submit" value="Submit" onClick="formInput();">
+		</form><br><br>
+		
+		<div id="results"></div>
+		<div id="clock"></div>	
+	</body>
+</html>

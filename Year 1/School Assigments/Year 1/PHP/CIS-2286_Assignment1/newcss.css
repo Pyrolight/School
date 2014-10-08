@@ -1,0 +1,45 @@
+/** Author: Michael Fesser
+    Date: Jan 12, 2014
+    Purpose: Give the page some style.
+    Last Revision: Jan 13, 2014
+    Dependencies: index.php
+*/
+
+body { /* Taken from http://ie.microsoft.com/TEStdrive/Graphics/CSSGradientBackgroundMaker/Default.html What can I say?  I like the color */
+    /* IE10 Consumer Preview */ 
+    background-image: -ms-linear-gradient(top, #5081BC 0%, #83B2DE 100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-linear-gradient(top, #5081BC 0%, #83B2DE 100%);
+
+    /* Opera */ 
+    background-image: -o-linear-gradient(top, #5081BC 0%, #83B2DE 100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #5081BC), color-stop(1, #83B2DE));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-linear-gradient(top, #5081BC 0%, #83B2DE 100%);
+
+    /* W3C Markup, IE10 Release Preview */ 
+    background-image: linear-gradient(to bottom, #5081BC 0%, #83B2DE 100%);
+}
+
+.box{ /* box formatting */
+    margin: 10%;
+    margin-top:5%;
+    margin-bottom:1%;
+    padding: 2%;
+    background-color: white;
+}
+
+.center{
+    text-align: center;
+}
+
+.clock{ /* clock formatting */
+    text-align: center;
+    margin-bottom:5%;
+    font-weight: bold;
+    font-size: 18px;
+}

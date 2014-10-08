@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+    <!-- Author: 
+             Date: Nov 12, 2013.
+             Purpose: To make a website for Big Jim's Home-Style Italian.
+             Last Revision: Nov 12, 2013.
+             Dependencies: None.
+    -->
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+            #field{  
+                background: grey;
+            }
+            #output{  
+                background: lightgray;
+                font-weight: bold;
+                
+            }
+            .errorMessage{  
+                background: red;
+                font-size: 20px;
+                color: black;
+            }
+         </style>
+        <script>
+            function validate() {
+                if (document.getElementById('contactName').value.length === 0) {  // error if field is empty
+                    document.getElementById('errorContactName').innerHTML = "<span class='errorMessage'>Enter your name.</span>";
+                } else {
+                    document.getElementById('errorContactName').innerHTML = ""; //  clear error
+                    var phoneNumber = document.getElementById('contactPhone').value;
+                    if (isNaN(phoneNumber)) {  // check is phone number is a number and is less then 7 characters
+                        document.getElementById('errorContactPhone').innerHTML = "<span class='errorMessage'>Must be a number</span>";
+                    } else if (phoneNumber.length < 7) {
+                        document.getElementById('errorContactPhone').innerHTML = "<span class='errorMessage'>Must be seven digits</span>";
+                    } else {
+                        document.getElementById('errorContactPhone').innerHTML = "";
+                    }
+                }
+            }
+            /*
+             * do all the calculations
+             */
+            function calculateTotal(){    
+                var totalPizza = document.getElementById('pizza').value * 15.00;
+                var totalPasta = document.getElementById('pasta').value * 18.00;
+                var totalBreadSticks = document.getElementById('breadsticks').value * 5.00;
+                var delivery = document.getElementById('delivery').value;
+                var totalTax;
+                total = totalPizza + totalPasta + totalBreadSticks + parseFloat(delivery); // total
+                totalTax = total * .15 + total;  //tax
+                document.getElementById('total').innerHTML = parseFloat(total).toFixed(2);  //output total
+                document.getElementById('totalTax').innerHTML = totalTax.toFixed(2); //output tax
+                
+            }
+
+        </script>
+        <noscript>
+        "You don't have Javascript turned on! In order for this page to function properly you must turn on Javascript."
+        </noscript>
+    </head>
+    <body>
+        <div id="bigJjims">
+            <form id ="userInput">
+                <fieldset id="field">
+                    Business Name: <input type="text" id="Name"/><br />    <!-- get user name -->
+                    Contact Person Name: <input type="text" id="contactName" onblur="validate();"/>
+                    <span id="errorContactName"></span><br />   <!-- get user phone -->
+                    Contact Person Phone Number: <input type="text" id="contactPhone" onblur="validate();"/>
+                    <span id="errorContactPhone"></span><br />
+                    Delivery Address: <input type="text" id="deliveryAddress"/><br />
+
+                    Personal Pizza $15.00 ea <select name="Personal Pizza" id="pizza" onChange="calculateTotal();"> <!-- options fields -->
+                        <option value ="0">Select</option>
+                        <option value ="1">1 pizza</option>
+                        <option value ="2">2 pizza</option>
+                        <option value ="3">3 pizza</option>
+                        <option value ="4">4 pizza</option>
+                        <option value ="5">5 pizza</option>
+                        <option value ="6">6 pizza</option>
+                        <option value ="7">7 pizza</option>
+                        <option value ="8">8 pizza</option>
+                        <option value ="9">9 pizza</option>
+                        <option value ="10">10 pizza</option>
+                    </select>
+                    Single Serving Pasta $18.00 ea <select name="Single Serving Pasta" id="pasta" onChange="calculateTotal();"> 
+                        <option value ="0">Please Select</option>
+                        <option value ="1">1 serving of pasta</option>
+                        <option value ="2">2 serving of pasta</option>
+                        <option value ="3">3 serving of pasta</option>
+                        <option value ="4">4 serving of pasta</option>
+                        <option value ="5">5 serving of pasta</option>
+                        <option value ="6">6 serving of pasta</option>
+                        <option value ="7">7 serving of pasta</option>
+                        <option value ="8">8 serving of pasta</option>
+                        <option value ="9">9 serving of pasta</option>
+                        <option value ="10">10 serving of pasta</option>                         
+                    </select>
+                    Breadsitcks $5.00 ea <select name="Single Order Breadsticks" id="breadsticks" onChange="calculateTotal();"> 
+                        <option value ="0">Please Select</option>
+                        <option value ="1">1 order breadsticks</option>
+                        <option value ="2">2 orders breadsticks</option>
+                        <option value ="3">3 orders breadsticks</option>
+                        <option value ="4">4 orders breadsticks</option>
+                        <option value ="5">5 orders breadsticks</option>
+                        <option value ="6">6 orders breadsticks</option>
+                        <option value ="7">7 orders breadsticks</option>
+                        <option value ="8">8 orders breadsticks</option>
+                        <option value ="9">9 orders breadsticks</option>
+                        <option value ="10">10 orders breadsticks</option>                         
+                    </select>
+                    <br />
+                    Pickup is free <input type="radio" id="pickUp" name="pickUp" value="0" onChange="calculateTotal();"/><br />
+                    Delivery is $10.50<input type="radio" id="delivery" name="delivery" value="10.50" onChange="calculateTotal();" />
+                </fieldset>  
+                <div id="output"> <!-- output -->
+                The cost is $<span id="total"></span><br />
+                Tax is 15 % <br />
+                The total cost is $<span id="totalTax"></span><br /> 
+                </div>
+            </form>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,138 @@
+/* Author: Michael Fesser
+ * Date: Feb 28, 2014
+ * Purpose: Some basic CSS to improve the look of the page.  Reused some CSS and
+            attempted to make some new CSS based on the feel of the portfolio project
+            and looking at bootstrap.  It looks better, is much simpler, and is
+            more reusable.
+ * Last Revision: 
+ * Dependencies: emailForm.php, processEmail.php
+ */
+
+html {  /* Taken from http://paulmason.name/item/full-screen-background-image-pure-css-code Used to make backgroup 100% screen size.*/
+    height: 100%;
+    width:100%;
+}
+    
+body { /* Taken from http://ie.microsoft.com/TEStdrive/Graphics/CSSGradientBackgroundMaker/Default.html What can I say?  I like the colour.  Tried a few others and meh. */
+
+    /* IE10 Consumer Preview */ 
+    background-image: -ms-radial-gradient(center, circle farthest-corner, #83B2DE 0%, #5081BC 100%);
+
+    /* Mozilla Firefox */ 
+    background-image: -moz-radial-gradient(center, circle farthest-corner, #83B2DE 0%, #5081BC 100%);
+
+    /* Opera */ 
+    background-image: -o-radial-gradient(center, circle farthest-corner, #83B2DE 0%, #5081BC 100%);
+
+    /* Webkit (Safari/Chrome 10) */ 
+    background-image: -webkit-gradient(radial, center center, 0, center center, 506, color-stop(0, #83B2DE), color-stop(1, #5081BC));
+
+    /* Webkit (Chrome 11+) */ 
+    background-image: -webkit-radial-gradient(center, circle farthest-corner, #83B2DE 0%, #5081BC 100%);
+
+    /* W3C Markup, IE10 Release Preview */ 
+    background-image: radial-gradient(circle farthest-corner at center, #83B2DE 0%, #5081BC 100%);
+    font-family: sans-serif;
+}
+
+#titleImage{  /* Format banner image. */
+    background-image:url('banner.jpg');
+    height: 200px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#title{  /* Format text in banner. */
+    line-height:200px;
+    font-weight: bold;
+    font-size: 50px;  
+    color:azure;
+    text-shadow: 2px 2px black;
+}
+
+.banner{ /* Add space after banner. */
+    padding-bottom: 10px;
+}
+
+input, label { /* Taken from Fin1te on StackOverflow. Put the labels above the input fields.*/
+    display:block;
+}
+
+label{ /* Label formatting. */
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+input, textArea{ /* Format the borders for the input fields. */
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+}
+
+.box{ /* Format the div that holds all the fields */
+    background:#F6F6F6;
+    padding: 30px;
+    margin-left: 10%;
+    margin-right:10%;
+}
+
+textArea{ /* Format the inside of the text area */
+    padding: 10px;
+}
+
+#submit{  /* Button formatting. */
+    background: darkslategray;
+    color: white;
+    left:180px;
+    width:100px;
+    font-weight: bold;
+    padding:8px;
+    border-radius:10px;
+}
+
+#messageText{ /* Formatting for the max characters for the text area. */
+    font-weight: 500;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.inputField{ /* Formatting for the input fields. */
+    border-radius:4px;
+    height: 25px;
+    width: 33.3%;
+    padding-left:10px; 
+    padding-right:10px;   
+}
+
+#message{ /* Formatting for the teat area. */
+    border-radius:4px;
+    height: 170px;
+    width: 650px;
+}
+
+.clockFormat{ /* Clock formatting. */
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 18px;
+
+}
+
+#box2{ /* Formatting to match the side of the "box" divs on both pages.  Can be done with JQuery but JQuery is evil. */
+    background:#F6F6F6;
+    padding: 5px;
+    margin-left: 10%;
+    margin-right:10%;
+    height: 482px;
+    text-align: center;
+}
+
+#vetricalAlign{ /* Partially taken from http://phrogz.net/CSS/vertical-align/  Centres text vertically. */
+    position: relative;
+    top: 50%;
+}
+
+a:link{ /* Make the hyper-link a different colour. */
+    color: #008AE6;
+}

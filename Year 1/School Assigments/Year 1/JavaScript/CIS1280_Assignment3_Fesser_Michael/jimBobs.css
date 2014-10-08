@@ -1,0 +1,129 @@
+/**
+* 
+* Author: Michael Fesser
+* Date: Oct 11, 2013
+* Purpose: This is the CSS sheet to provide styling to jimBobs.html  	 
+* Last Revision: Oct 13, 2013
+* Dependencies: None
+*/
+
+/*
+* Styling for the image of jimBobs.html
+*/
+#icon {
+	display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+	width: 400px;
+}
+
+/*
+* Styling for the email link
+*/
+#mailTo {
+	font-family: Arial;
+	font-size: 16px;
+	font-style: oblique;
+	color: blue;
+}
+
+/*
+* Styling for 3 background elements
+*/
+#backgroundGrey {
+	background-color: #DFDFE0;	
+	width:400px;
+	height:100%;
+}
+
+#backgroundBlue {
+	background-color: #92C8F7;	
+	width:400px;
+	height:100%;
+}
+
+#backgroundGreen {
+	background-color: #AFF59D;	
+	width:400px;
+	height:100%;
+}
+
+/*
+* Styling for images
+*/
+.images {
+	width: 400px;
+}
+
+/*
+* Styling for hyper-links in the main table on jimBobs.html
+*/
+.altLink{
+	font-family: Arial;
+	font-size: 17px;
+}
+
+/*
+* Styling for the warning text for the 3 images related to the computer specs
+*/
+.exception{
+	font-style:italic;
+	font-weight: bold;
+}
+
+/*
+* Styling for the main paragraph text in faq.html
+*/
+.faqText{
+	font-family: arial;
+	font-size: 15px;
+}
+
+/*
+* Heading 1 styling
+*/
+h1 {
+	text-align: center;
+}
+
+/*
+* Unordered list styling
+*/
+ul{
+	padding: 10px;
+	margin: 10px;	
+}
+
+/*
+* Table styling
+*/
+table {
+	border-collapse: collapse;
+	border: 3px solid black;
+	width: 200px;
+}
+
+/*
+* Table header styling
+*/
+table th {
+    border: 3px solid black;
+	padding: 10px;
+	font-family: arial;
+}
+
+/*
+* Table cell styling
+*/
+table td {
+    border: 3px solid black;
+	padding: 10px;
+}
+
+/*
+* General hyper-link styling
+*/
+a:link  {color: green;}
+a:visited {color: red;}
+a:hover {color: blue;}
+a:active {color: orange;}

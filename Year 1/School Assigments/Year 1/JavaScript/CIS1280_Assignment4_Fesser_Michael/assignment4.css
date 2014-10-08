@@ -1,0 +1,124 @@
+/** 
+ *
+ * Author: Michael Fesser
+ * Date: Oct 25, 2013
+ * Purpose: Build lacking CSS skills.
+ * Last Revision: Oct 28, 2013
+ * Dependencies: part1.html, myTipCalculator.html, dice.html
+ */
+
+/**
+ * part1.html CSS section.  Also used for button in myTipCalculator.html.
+ */
+#button {
+	width: 110px;
+    height: 28px;
+	background-color: black;
+	font-weight: bold;
+	color: white;	
+}
+
+/**
+ * dice.html CSS section.
+ */
+#diceButton {	
+	width: 300px;
+    height: 100px;
+	font-size: 40px;
+	background-color: darkblue;
+	font-weight: bold;
+	color: white;
+	position: fixed;
+	left: 40%;
+	top: 15%;
+}
+ 
+ /* Shared dice formatting. */
+div.dice, #dice1, #dice2, #dice3, #dice4, #dice5, #dice6 {  
+	font-size: 400px;
+	font-weight: bold;
+	position: fixed;
+	left: 34%;
+	top: 38%;
+	width: 450px;
+	height: 450px;
+	text-align: center;
+}
+
+#dice1 {	
+	color: red;
+	background-color: blue;
+	
+}
+
+#dice2 {	
+	color: orange;
+	background-color: grey;	
+}
+
+#dice3 {	
+	color: purple;
+	background-color: red;	
+}
+
+#dice4 {	
+	color: blue;
+	background-color: green;	
+}
+
+#dice5 {	
+	color: green;
+	background-color: yellow;	
+}
+
+#dice6 {	
+	color: yellow;
+	background-color: black;	
+}
+
+/**
+ * myTipCalculator CSS section.
+ */
+#tipCalculator {
+	width: 300px;
+    height: 180px;
+	padding-top: 60px;
+	background-color: lightblue;
+	text-align: center;
+}
+
+/* field formatting */
+#positionTipText{
+	padding-right: 10px;
+}
+
+/* I hate CSS formatting */	
+#tipPercentage{
+	position: relative;
+	left: 1px;	
+}
+
+#calculateTipButton {
+	width: 110px;
+    height: 28px;
+	background-color: black;
+	font-weight: bold;
+	color: white;
+	position: fixed;
+	left: 90px;
+}
+
+#results {
+	width: 300px;
+    height: 180px;
+	margin: 0px;
+	text-align: center;
+	background-color: lightgrey;	
+}
+
+#clock {
+	width: 300px;
+	height: 50px;
+	text-align: center;
+	background-color: lightgrey;
+}

@@ -1,0 +1,61 @@
+/* Author: Michael Fesser
+ * Date: April 23, 2014
+ * Purpose: 
+ * Last Revision: April 23, 2014
+ * Dependencies: 
+ */
+
+
+
+body { /* Benjamin Moore Seafoam Green, if you are more of a Bher person... too bad.*/
+    background-color: #b9efe1   
+}
+
+.mainDiv{ /* Main div formatting */
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    background-color: white;
+
+    padding-bottom: 5px;
+}
+
+table{
+    font-size: 13px;     
+}
+
+table#firstTable tr > td:first-child { 
+    font-weight: bold;
+}
+
+
+table#firstTable tr > td:nth-child(2n) { 
+    padding-left: 10px;
+}
+
+table#secondTable{
+    width: 100%;
+    border: 1px solid black;
+    margin-left: 2px;
+}
+
+table#secondTable th {
+    border: 1px solid black;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+table#secondTable td{
+    border: 1px solid black;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+
+th{ /* Format table headings */
+    font-weight: bold;
+}
+
+.center{
+    text-align: center;
+}

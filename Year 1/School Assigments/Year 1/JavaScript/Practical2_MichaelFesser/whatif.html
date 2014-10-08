@@ -1,0 +1,61 @@
+<!-- 
+Name: Don Bowers
+Date: 11/22/2013
+Purpose: Used to calculate remaining marks required to pass CIS1280
+Requires: whatif.js
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>What-if Calculator CIS1280</title>
+       <style>
+            input {
+                width: 50px;
+            }
+            #container {
+                margin: auto;
+                background-color: #68C9AF;
+                width: 650px;
+                padding:10px;
+                font-family: Tahoma;
+            }
+        </style>
+        <script src="whatif.js"></script>
+        <!--<noscript>
+        "You don't have Javascript turned on! In order for this page to function properly you must turn on Javascript."
+        </noscript>-->
+    </head>
+    <body>
+        <div id="container">
+            <h1 style="margin-top:0px;">What-if Calculator CIS1280</h1>
+            Enter your achieved grades (in percent) in the grading sheet below. Your final grade should/will appear at the bottom. Note: If your final grade is 60% or greater the text should be green otherwise it should be red.
+            <form id="userPrefs">
+                <p>
+                <h3>Assignments 30%</h3>
+                Assignment 1 <input type="text" id="assignment1" onblur="checkGrades()" title="In Percent" value="0"/><br />
+                Assignment 2 <input type="text" id="assignment2" onblur="checkGrades()" title="In Percent" value="0"/><br />
+                Assignment 3 <input type="text" id="assignment3" onblur="checkGrades()" title="In Percent" value="0"/><br />
+                Assignment 4 <input type="text" id="assignment4" onblur="checkGrades()" title="In Percent" value="0"/><br />
+                </p>	
+                <p>
+                <h3>Code Challenges 35%</h3>
+                Challenge 1 <input type="text" id="challenge1" onblur="checkGrades()" title="In Percent" value="0"/><br />
+                Challenge 2 <input type="text" id="challenge2" onblur="checkGrades()" title="In Percent" value="0"/><br />
+                </p>
+                <p>
+                <h3>Theory Test 10%</h3>
+                Test <input type="text" id="theoryTest" onblur="checkGrades()" title="In Percent" value="0"/><br />
+                </p>			
+                <p>
+                <h3>Portfolio Assignment 25%</h3>
+                Portfolio <input type="text" id="portfolio" onblur="checkGrades()" title="In Percent" value="0"/><br />
+                </p>
+                <h2>Final grade: <span id="finalGrade"/>0%</span></h2>
+                <h2 id="remPoints"></h2>
+                <button type="button" onclick="resetForm()">Reset Form</button>
+            </form>
+        </div>	
+    </body>
+	</html>
+

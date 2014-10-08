@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE struts-config PUBLIC
+          "-//Apache Software Foundation//DTD Struts Configuration 1.3//EN"
+          "http://jakarta.apache.org/struts/dtds/struts-config_1_3.dtd">
+
+
+<struts-config>
+    <form-beans>
+    <form-bean type="forms.AddUpdateCustomerForm" name="addUpdateCustomerForm"/>
+    <form-bean type="forms.LoginForm" name="loginForm"/>
+    <form-bean type="forms.StorageUnitForm" name="storageUnitForm"/>
+    <form-bean type="forms.CustomerForm" name="customerForm"/>
+    <form-bean type="forms.MultipleActionForm" name="multipleActionForm"/>
+    <form-bean type="forms.ReleaseStorageUnitForm" name="releaseStorageUnitForm"/>
+    <form-bean type="forms.ReserveStorageUnitForm" name="reserveStorageUnitForm"/>
+    <form-bean type="forms.AdminCustomerSearchForm" name="adminCustomerSearchForm"/>
+    <form-bean type="forms.AdminStorageUnitSearchForm" name="adminStorageUnitSearchForm"/>
+    <form-bean type="forms.AdminModifyCustomerForm" name="adminModifyCustomerForm"/>
+    <form-bean type="forms.CustomerStorageUnitSearchForm" name="customerStorageUnitSearchForm"/>
+    <form-bean type="forms.StorageUnitInUseToggleForm" name="storageUnitInUseToggleForm"/>
+    </form-beans>
+    
+    <global-exceptions>
+    
+    </global-exceptions>
+
+    <global-forwards>
+         <forward name="index"  path="/index.jsp"/>
+         <forward name="login"  path="loginTile"/>  
+         <forward name="adminMain"  path="adminMainTile"/>
+         <forward name="customerStorageUnitView"  path="customerStorageUnitViewTile"/>
+         <forward name="mainMenu" path="mainMenuTile"/>
+    </global-forwards>
+
+    <action-mappings>
+        <action path="/mainMenu" forward="mainMenuTile"/>
+        
+        <action path="/initialize"
+                type="actions.InitializeAction">
+        </action>
+               
+        <action path="/addCustomer" 
+                type="actions.AddCustomerAction"
+                name="addUpdateCustomerForm"
+                input="addCustomerTile" 
+                scope="request">
+            <forward name="addCustomer"  path="addCustomerTile"/>
+            <forward name="adminAddCustomer"  path="adminAddCustomerTile"/>
+        </action>
+        
+         <action path="/updateCustomer" 
+                type="actions.UpdateCustomerAction"
+                name="addUpdateCustomerForm"
+                input="customerUpdateTile" 
+                scope="request">          
+         </action>  
+        
+        <action path="/login" 
+                type="actions.LoginAction"
+                name="loginForm"
+                input="loginTile" 
+                scope="request">
+            <forward name="customerStorageUnitView"  path="customerStorageUnitViewTile"/>
+            <forward name="adminInitialize"  path="/adminInitialize.jsp"/>
+        </action>             
+        
+        <action path="/loadUnits" 
+                type="actions.LoadStorageUnitsAction"
+                name="storageUnitForm">
+            <forward name="viewAllStorageUnits"  path="viewAllStorageUnitsTile"/>
+        </action>            
+             
+        
+        <action path="/mainMenu" 
+                type="actions.MainMenuAction"
+                name="multipleActionForm"
+                scope="request">
+            <forward name="addCustomer"  path="addCustomerTile"/>
+            <forward name="viewAllStorageUnits"  path="viewAllStorageUnitsTile"/>  
+            <forward name="customerStorageUnitView"  path="customerStorageUnitViewTile"/>
+            <forward name="customerViewAllStorageUnits"  path="customerViewAllStorageUnitsTile"/>
+            <forward name="customerStorageUnitSearch"  path="customerStorageUnitSearchTile"/>
+            <forward name="customerUpdate"  path="customerUpdateTile"/>
+            <forward name="adminSearch"  path="adminMainTile"/>
+            <forward name="adminCustomerSearchResults"  path="adminCustomerSearchResultsTile"/>
+            <forward name="adminAddCustomer"  path="adminAddCustomerTile"/>
+            <forward name="adminViewAllStorageUnits"  path="adminViewAllStorageUnitsTile"/>
+            <forward name="adminAddStorageUnit"  path="adminAddStorageUnitTile"/>    
+        </action>
+        
+        <action path="/customerStorageUnitSearch" 
+                type="actions.CustomerStorageUnitSearchAction"
+                name="customerStorageUnitSearchForm"
+                scope="request">
+            <forward name="customerStorageUnitSearchResults"  path="customerStorageUnitSearchResultsTile"/>            
+        </action>
+              
+        <action path="/releaseStorageUnit" 
+                type="actions.ReleaseStorageUnitAction"
+                name="releaseStorageUnitForm"
+                scope="request">
+            <forward name="customerStorageUnitView"  path="customerStorageUnitViewTile"/>
+            <forward name="adminStorageUnitView"  path="adminStorageUnitViewTile"/>
+        </action>
+       
+        <action path="/reserveStorageUnit" 
+                type="actions.ReserveStorageUnitAction"
+                name="reserveStorageUnitForm"
+                input="viewAllStorageUnitsTile" 
+                scope="request">        
+            <forward name="customerStorageUnitView"  path="customerStorageUnitViewTile"/>
+        </action>    
+        
+        <action path="/storageUnitInUseToggle" 
+                type="actions.StorageUnitInUseToggleAction"
+                name="storageUnitInUseToggleForm"
+                scope="request">        
+            <forward name="customerStorageUnitView"  path="customerStorageUnitViewTile"/>
+        </action>
+        
+        <action path="/extendStorageUnit" 
+                type="actions.ExtendStorageUnitAction"
+                name="reserveStorageUnitForm"
+                input="viewAllStorageUnitsTile" 
+                scope="request">
+            <forward name="customerStorageUnitView"  path="customerStorageUnitViewTile"/>
+        </action>                 
+        
+        <action path="/adminInitialize"
+                type="actions.AdminInitializeAction">           
+        </action>
+                         
+        <action path="/adminCustomerSearch" 
+                type="actions.AdminCustomerSearchAction"
+                name="adminCustomerSearchForm"
+                scope="request">
+            <forward name="adminCustomerSearchResults"  path="adminCustomerSearchResultsTile"/>            
+        </action>
+        
+        <action path="/adminStorageUnitSearch" 
+                type="actions.AdminStorageUnitSearchAction"
+                name="adminStorageUnitSearchForm"
+                scope="request">
+            <forward name="adminStorageUnitSearchResults"  path="adminStorageUnitSearchResultsTile"/>            
+        </action>          
+        
+        <action path="/adminModifyCustomer" 
+                type="actions.AdminModifyCustomerAction"
+                name="adminModifyCustomerForm"
+                scope="request">
+            <forward name="adminUpdateCustomer"  path="adminUpdateCustomerTile"/>
+        </action>
+        
+        <action path="/adminAddStorageUnit" 
+                type="actions.AdminAddStorageUnitAction"
+                name="storageUnitForm"
+                input="adminAddStorageUnitTile" 
+                scope="request">
+            <forward name="adminMain"  path="adminMainTile"/>
+        </action>
+  
+    </action-mappings>
+    
+    <controller processorClass="org.apache.struts.tiles.TilesRequestProcessor"/>
+
+    <message-resources parameter="com/myapp/struts/ApplicationResource"/>    
+    
+    <!-- ========================= Tiles plugin ===============================-->
+    <!--
+    This plugin initialize Tiles definition factory. This later can takes some
+    parameters explained here after. The plugin first read parameters from
+    web.xml, thenoverload them with parameters defined here. All parameters
+    are optional.
+    The plugin should be declared in each struts-config file.
+    - definitions-config: (optional)
+    Specify configuration file names. There can be several comma
+    separated file names (default: ?? )
+    - moduleAware: (optional - struts1.1)
+    Specify if the Tiles definition factory is module aware. If true
+    (default), there will be one factory for each Struts module.
+    If false, there will be one common factory for all module. In this
+    later case, it is still needed to declare one plugin per module.
+    The factory will be initialized with parameters found in the first
+    initialized plugin (generally the one associated with the default
+    module).
+    true : One factory per module. (default)
+    false : one single shared factory for all modules
+    - definitions-parser-validate: (optional)
+    Specify if xml parser should validate the Tiles configuration file.
+    true : validate. DTD should be specified in file header (default)
+    false : no validation
+
+    Paths found in Tiles definitions are relative to the main context.
+    -->
+    <plug-in className="org.apache.struts.tiles.TilesPlugin" >
+        <set-property property="definitions-config" value="/WEB-INF/tiles-defs.xml" />      
+        <set-property property="moduleAware" value="true" />
+    </plug-in>
+    
+    <!-- ========================= Validator plugin ================================= -->
+    <plug-in className="org.apache.struts.validator.ValidatorPlugIn">
+        <set-property
+            property="pathnames"
+            value="/WEB-INF/validator-rules.xml,/WEB-INF/validation.xml"/>
+    </plug-in>
+  
+</struts-config>

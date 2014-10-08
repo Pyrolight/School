@@ -1,0 +1,62 @@
+/* Author: Michael Fesser
+ * Date: April 10, 2014
+ * Purpose: Some basic CSS to improve the look of the page.  Reused some CSS and
+            attempted to make some new CSS based on the feel of the portfolio project
+            and looking at bootstrap.  It looks better, is much simpler, and is
+            more reusable.  Expect to see this css for everything with some modifications.
+ * Last Revision: April 14, 2014
+ * Dependencies: employeeInfo.php
+ */
+
+
+
+body { /* Benjamin Moore Seafoam Green, if you are more of a Bher person... too bad.*/
+    background-color: #b9efe1   
+}
+
+#mainDiv{ /* Main div formatting */
+    margin-left: auto;
+    margin-right: auto;
+    width: 700px;
+    background-color: white;
+    font-size: 14px;  
+    padding-bottom: 5px;
+}
+
+/* The following CSS Block for the firstTable and secondTable formatting is from Jon Egerton http://stackoverflow.com/questions/7992198/html-how-to-make-2-tables-with-different-css. 
+/* DrDoc http://www.webmasterworld.com/css/3374888.htm  Format the first column. */
+table#firstTable tr > td:first-child { 
+    font-weight: bold;
+}
+
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child  Firefox seems to not like last-child atm Format the second column */
+table#firstTable tr > td:nth-child(2n) { 
+    padding-left: 10px;
+}
+
+table#secondTable{
+    border: 1px solid black;
+    margin-left: 2px;
+}
+
+table#secondTable th {
+    border: 1px solid black;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+table#secondTable td{
+    border: 1px solid black;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+/* End CSS block*/
+
+th{ /* Format table headings */
+    font-weight: bold;
+}
+
+.bolded{ /* Used to format first entry in the first table */
+    font-weight: bold;
+    padding: 2px;
+}
