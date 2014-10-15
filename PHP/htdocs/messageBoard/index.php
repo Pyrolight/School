@@ -1,30 +1,50 @@
 <?php
+/* Author: Michael Fesser
+  Date: 10/14/2014
+  Purpose: This is the main page.  It is a very simple message board.Messages will be displayed, 
+  and when a user logs in they will be able to add, edit and deleted messages.
+  Last Revision: 10/14/2014
+  Dependencies: none
+ */
+
+// Start the session and secure it against session fixation.
 session_start();
 session_regenerate_id(true);
 
+// When the page loads run this.
 if (!isset($_SESSION['sessionStart'])) {
-    $_SESSION['accountCreated'] = false;
     $_SESSION['sessionStart'] = true;
+    $_SESSION['accountCreated'] = false;
 }
 
+// Add the database functions.
 include ('databaseFunctions.php');
 
+// If the user is logged in.
 if (isset($_SESSION['userId'])) {
+    // If the are posing a message.
     if (isset($_POST['message'])) {
+        // If they are editing it.
         if (isset($_SESSION['editMessage'])) {
             editMessage();
         } else {
+            // If it is a new message.
             insertMessage();
         }
     }
 
+    // If the user clicked a link.
     if (isset($_GET['action'])) {
+        // If the want to delete a message.
         if ($_GET['action'] == "delete") {
             deleteMessage();
+            // Clear the message box after a delete.  Cleans up any edit -> delete clicks.
             unset($_SESSION['messageTitle']);
             unset($_SESSION['message']);
+        // If they clicked the edit link.  This is used before the message is posted.
         } else if ($_GET['action'] == "edit") {
             prepareEditMessage();
+        // Logout.
         } else if ($_GET['action'] == 'logout') {
 
             // kills server-side session.
@@ -36,12 +56,15 @@ if (isset($_SESSION['userId'])) {
                 $params = session_get_cookie_params();
                 setcookie(session_name(), '', time() - 42000, $params["path"], $params["domain"], $params["secure"], $params["httponly"]);
             }
+            // Clear actions and reload page.
             unset($_GET['action']);
             header('location:index.php');
             exit();
         }
+        // Clear actions.
         unset($_GET['action']);
     } else {
+        // Cleaned up an error, might be redundant now.
         unset($_SESSION['messageTitle']);
         unset($_SESSION['message']);
     }
@@ -57,7 +80,7 @@ if (isset($_SESSION['userId'])) {
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title></title>
+        <title>Index</title>
 
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/template.css" rel="stylesheet">
@@ -74,74 +97,83 @@ if (isset($_SESSION['userId'])) {
 
         <!-- Script is from Kevin Liew @ http://www.queness.com, modifications by Michael Fesser -->
         <script>
+        // Mixed scripts make formatting explode.      
+        <?php
+        // Needed due to a combining of scripts.  This will allow the script to deal with both clicks and auto open on it's own.
+        if ((isset($_SESSION['loginFailed']) || $_SESSION['accountCreated'] == true) && !isset($_SESSION['userId'])) {
+        ?>
+            //azzomer http://www.dynamicdrive.com/forums
             $(document).ready(function() {
 
-                //select all the a tag with name equal to modal
-                $('a[name=modal]').click(function(e) {
-                    //Cancel the link behavior
-                    e.preventDefault();
+            var id = '#dialog';
+        <?php
+        } else {
+        ?>
+            $(document).ready(function() {
 
-                    //Get the A tag
-                    var id = $(this).attr('href');
-
-                    //Get the screen height and width
-                    var maskHeight = $(document).height();
-                    var maskWidth = $(window).width();
-
-                    //Set heigth and width to mask to fill up the whole screen
+            //select all the a tag with name equal to modal
+            $('a[name=modal]').click(function(e) {
+            //Cancel the link behavior
+            e.preventDefault();
+            //Get the A tag
+            var id = $(this).attr('href');
+        <?php
+        }
+        ?>
+            //Get the screen height and width
+            var maskHeight = $(document).height();
+            var maskWidth = $(window).width();
+            //Set heigth and width to mask to fill up the whole screen
                     $('#mask').css({'width': maskWidth, 'height': maskHeight});
-
                     //transition effect		
-                    $('#mask').fadeIn(100);
-                    $('#mask').fadeTo("slow", 0.8);
-
+                    $('#mask').fadeIn();
+                    $('#mask').fadeTo("fast", 0.8);
                     //Get the window height and width
                     var winH = $(window).height();
                     var winW = $(window).width();
-
                     //Set the popup window to center
                     $(id).css('top', winH / 2 - $(id).height() / 2);
                     $(id).css('left', winW / 2 - $(id).width() / 2);
-
                     //transition effect
                     $(id).fadeIn(2000);
-                });
-                //if close button is clicked
-                $('.window .cancel').click(function(e) {
-                    //Cancel the link behavior
-                    e.preventDefault();
-
+        <?php
+        if (!isset($_SESSION['loginFailed']) && ($_SESSION['accountCreated'] == false)) {
+        ?>
+            });
+        <?php
+        }
+        ?>
+            //if close button is clicked
+            $('.window .cancel').click(function(e) {
+            //Cancel the link behaviour
+            e.preventDefault();
                     $('#mask').hide();
                     $('.window').hide();
-                });
-                //if mask is clicked
-                $('#mask').click(function() {
-                    $(this).hide();
+            });
+                    //if mask is clicked
+                    $('#mask').click(function() {
+            $(this).hide();
                     $('.window').hide();
-                });
-                $(window).resize(function() {
+            });
+                    $(window).resize(function() {
 
-                    var box = $('#boxes .window');
-
+            var box = $('#boxes .window');
                     //Get the screen height and width
                     var maskHeight = $(document).height();
                     var maskWidth = $(window).width();
-
                     //Set height and width to mask to fill up the whole screen
                     $('#mask').css({'width': maskWidth, 'height': maskHeight});
-
                     //Get the window height and width
                     var winH = $(window).height();
                     var winW = $(window).width();
-
                     //Set the popup window to center
                     box.css('top', winH / 2 - box.height() / 2);
                     box.css('left', winW / 2 - box.width() / 2);
-                });
             });
-        </script>
+            });</script>
+
         <!-- End Kevin Liew @ http://www.queness.com -->
-        
+
         <!-- Style is from Kevin Liew @ http://www.queness.com -->
         <style>
             #mask {
@@ -165,12 +197,14 @@ if (isset($_SESSION['userId'])) {
             }
 
             #boxes #dialog {
-                width:500px; 
-                height:250px;
+                width:330px; 
+                height:330px;
                 padding:10px;
                 background-color:#ffffff;
+                border-radius: 2px;
             }
 
+            /* Input box fix. */
             .modal-input{
                 display:block;
                 width:300px;
@@ -209,78 +243,70 @@ if (isset($_SESSION['userId'])) {
             .modal-input::-webkit-input-placeholder{
                 color:#777
             }
-        </style>
 
+            .input-error{
+                font-size: 18px;
+                color: red;
+            }
+
+        </style>
         <!-- End Kevin Liew @ http://www.queness.com -->
     </head>
     <body>
         <div id="menuContainer">
             <div class="menuBar">
                 <?php
+                // Add menu bar.
                 include ('menuBar.php');
                 ?>
             </div>
         </div>
         <div class="container offsetTop">
-            <div class="text-center box">
-                <h1>Welcome to the website</h1>
+            <div class="banner text-center">
+                <h1 id="vetricalAlign">The Wild World of Messages</h1>
             </div>
             <div class="box">
-                <h1 class="text-center">The Wild World of Messages</h1>
+                <div>
+                    <h3 class="text-center">What is on your Mind Today?</h3>
+                </div><br/>
                 <?php
+                // Get messages.
                 getMessage();
-                if (isset($_GET['action'])) {
-                    if ($_GET['action'] == 'login') {
-                        include ('login.php');
-                    }
-                }
+                // Display editor if user is logged in.
                 if (isset($_SESSION['userId'])) {
                     ?>
                     <form id="messageForm" action="index.php" method="POST" onsubmit="return validateMessage(this);">
                         <div class="row">
                             <div class="form-group col-lg-4">
                                 <label>Title</label>
+                                
                                 <input type="text" class="form-control" id="messageTitle" name="messageTitle" value="<?php echo (isset($_SESSION['messageTitle']) ? $_SESSION['messageTitle'] : ""); ?>"/>
-                                <div id="messageTitleError">&nbsp;</div>
+                                <div id="messageTitleError" class="input-error">&nbsp;</div>
                             </div>
                         </div>  
                         <div class="row">
                             <div class="form-group col-lg-12">
+                                <!-- The editor -->
+                                <!-- Populate field if editing -->
                                 <textarea name="message" cols="80" rows="10" id="message" ><?php echo (isset($_SESSION['message']) ? $_SESSION['message'] : ""); ?></textarea>                              
                                 <script>
-                                    $(window).load(function() {
-                                        CKEDITOR.replace('message');
+                                            $(window).load(function() {
+                                    CKEDITOR.replace('message');
                                     });
                                 </script>
-                                <div id="messageError"></div><br/>
+                                <div id="messageError" class="input-error"></div>&nbsp;<br/>
                             </div>                
                             <div class="form-group col-lg-12">
-                                <input type="submit" name="submit" id="submit" class="btn btn-default" value="submit"/>                                                               
+                                <input type="submit" name="submit" id="submit" class="btn btn-default" value="Submit"/>                                                               
                             </div>
                         </div>
                     </form>  
-                <?php }
+                    <?php
+                }
+                // Add login.
+                include ('login.php');
                 ?>
-            </div>
-            <!-- Kevin Liew @ http://www.queness.com, modifications by Michael Fesser -->
-            <div id="boxes">
-                <div id="dialog" class="window">
-                    <div class="row">
-                        <div class="form-group col-lg-4">
-                            <form id="loginForm" action="login.php" method ="POST" onsubmit="return validateLogin(this);">        
-                                <label>Username: </label><input type="text" id="username" class="modal-input" name="username"/>
-                                <div id="usernameError" class="index-error-fix">&nbsp;</div>     
-                                <label>Password: </label><input type="password" id="password" class="modal-input" name="password" />
-                                <div id="passwordError" class="index-error-fix">&nbsp;</div><br/>
-                                <input type="submit" name="submit" value ="submit" class="btn btn-default"/>
-                                <input type="button" value="cancel" class="btn btn-default cancel"/>      
-                            </form>
-                        </div>
-                    </div>
-                </div>
-                <div id="mask"></div>
-            </div>
-            <!-- End Kevin Liew @ http://www.queness.com -->
+            </div>          
         </div>
     </body>
 </html>

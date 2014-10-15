@@ -9,12 +9,11 @@
  */
 
 // connect to the server
-$mysqli = new mysqli('localhost', 'mfesser', 'Mfesser1234', 'message_board');
+$mysqli = new mysqli('localhost', 'mfesser', 'mfesser1234', 'message_board');
 
-// display an error if conneciton fails and allow the user to return to the main page.
+// display an error if connection fails and allow the user to return to the main page.
 if ($mysqli->connect_errno) {
     echo "There was an issue connecting to the database Error is " . $mysqli->connect_errno ."</br>";
-    echo "Please click the link below to return to the previous page. <br />";
-    echo "<a href=\"javascript:history.go(-1)\">Go back to previous page</a></div></body></html>";
+    echo "<a href='index.php'>Go back to home page</a></div></body></html>";
     exit();
 }

@@ -1,11 +1,18 @@
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+/* Author: Michael Fesser
+ Date: 10/14/2014
+ Purpose: This is the main JavaScript page.  It does the form validation and all the calculations on the JavaScript page.
+ Last Revision: 10/14/2014
+ Dependencies: index.php, login.php, register.php
  */
 
-
+/**
+ * This function checks the whole of the registration page and halts processing if there is an error.
+ * It also provides the user will useful warnings.
+ * 
+ * @returns {Boolean}
+ */
 function validateRegister() {
+    // This var is used in the validation check.
     validation = 0;
     username = document.getElementById('username').value;
     firstName = document.getElementById('firstName').value;
@@ -88,13 +95,12 @@ function validateRegister() {
             document.getElementById('password2').style.borderColor = 'grey';
             validation++;
         }
-
-        // Empty field check
     } else {
         document.getElementById('password').style.borderColor = 'red';
         document.getElementById('passwordError').innerHTML = "Please enter a password.";
     }
 
+    // This is used a the check against fields errors.  The correct number of validated fields will allow further processing of the form.
     if (validation === 7) {
         return (true);
     } else {
@@ -102,30 +108,38 @@ function validateRegister() {
     }
 }
 
+/**
+ * This function checks the login page and halts processing if there is an error.
+ * It also provides the user will useful warnings.
+ * 
+ * @returns {Boolean}
+ */
 function validateLogin() {
+    // This var is used in the validation check.
     validation = 0;
-    username = document.getElementById('username').value;
-    password = document.getElementById('password').value;
+    usernameLogin = document.getElementById('usernameLogin').value;
+    passwordLogin = document.getElementById('passwordLogin').value;
 
-    if (username.length > 0) {
-        document.getElementById('usernameError').innerHTML = '&nbsp';
-        document.getElementById('username').style.borderColor = 'grey';
+    if (usernameLogin.length > 0) {
+        document.getElementById('usernameErrorLogin').innerHTML = '&nbsp';
+        document.getElementById('usernameLogin').style.borderColor = 'grey';
         validation++;
     } else {
-        document.getElementById('username').style.borderColor = 'red';
-        document.getElementById('usernameError').innerHTML = "Please enter your username.";
+        document.getElementById('usernameLogin').style.borderColor = 'red';
+        document.getElementById('usernameErrorLogin').innerHTML = "Please enter your username.";
     }
 
-    if (password.length > 0) {
-        document.getElementById('passwordError').innerHTML = '&nbsp';
-        document.getElementById('password').style.borderColor = 'grey';
+    if (passwordLogin.length > 0) {
+        document.getElementById('passwordErrorLogin').innerHTML = '&nbsp';
+        document.getElementById('passwordLogin').style.borderColor = 'grey';
         validation++;
         // Empty field check
     } else {
-        document.getElementById('password').style.borderColor = 'red';
-        document.getElementById('passwordError').innerHTML = "Please enter a password.";
+        document.getElementById('passwordLogin').style.borderColor = 'red';
+        document.getElementById('passwordErrorLogin').innerHTML = "Please enter a password.";
     }
 
+ // This is used a the check against fields errors.  The correct number of validated fields will allow further processing of the form.
     if (validation === 2) {
         return (true);
     } else {
@@ -133,10 +147,17 @@ function validateLogin() {
     }
 }
 
+/**
+ * This function checks the message and halts processing if there is an error.
+ * It also provides the user will useful warnings.
+ * 
+ * @returns {Boolean}
+ */
 function validateMessage() {
+    // This var is used in the validation check.
     validation = 0;
     messageTitle = document.getElementById('messageTitle').value;
-    message = document.getElementById('message').value;
+    message = CKEDITOR.instances.message.getData();
 
     if (messageTitle.length >= 5 && messageTitle.length <= 100) {
         document.getElementById('messageTitleError').innerHTML = '&nbsp';
@@ -147,16 +168,16 @@ function validateMessage() {
         document.getElementById('messageTitleError').innerHTML = "The title must be between 5 and 100 characters long.";
     }
 
-//    if (message.length >= 10 && message.length <= 500) {
-//        document.getElementById('messageError').style.visibility = "hidden";
-//        validation++;
-//        // Empty field check
-//    } else {       
-//        document.getElementById('messageError').style.visibility = "visable";
-//        document.getElementById('messageError').innerHTML = "The message must be between 10 and 500 characters long.";
-//    }
+    if (message.length > 0) {
+        document.getElementById('messageError').innerHTML = '&nbsp';
+        validation++;
+        // Empty field check
+    } else {       
+        document.getElementById('messageError').innerHTML = "The message cannot be blank.";
+    }
 
-    if (validation === 1) {
+ // This is used a the check against fields errors.  The correct number of validated fields will allow further processing of the form.
+    if (validation === 2) {
         return (true);
     } else {
         return (false);

@@ -1,7 +1,8 @@
-/*!
- * Start Bootstrap - Business Casual Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+/* Author: Michael Fesser
+ Date: 10/14/2014
+ Purpose: Basic CSS that builds on Bootstrap CSS to customize the page.
+ Last Revision: 10/14/2014
+ Dependencies: index.php, login.php, register.php, menubar.php
  */
 
 
@@ -13,12 +14,13 @@ body{
 
 .menuBar {
     padding:8px;
-    border-radius: 1px;
+    border-radius: 2px;
     text-align: right;
-    width:71%;
+    width:100%;
     background: rgba(200,200,200,1.0);
     margin-left: auto;
     margin-right: auto;
+    background: black;
 }
 
 #menuBarLeft{
@@ -69,4 +71,16 @@ label{
 .index-error-fix{
     width:300px;
     text-align: left;
+}
+
+.banner{
+    background-image: url('../img/paper.jpg');
+    height: 200px;
+    width:100%;
+    color:white;
+}
+
+#vetricalAlign{ /* Partially taken from http://phrogz.net/CSS/vertical-align/  Centres text vertically. */
+    position: relative;
+    top: 45%;
 }
