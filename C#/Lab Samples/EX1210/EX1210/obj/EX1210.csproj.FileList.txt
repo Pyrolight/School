@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EX1210.DisplayForm.resources
+obj\Debug\EX1210.Properties.Resources.resources
+obj\Debug\EX1210.SandwichForm.resources
+obj\Debug\EX1210.csproj.GenerateResource.Cache
+bin\Debug\EX1210.exe
+bin\Debug\EX1210.pdb
+obj\Debug\EX1210.exe
+obj\Debug\EX1210.pdb

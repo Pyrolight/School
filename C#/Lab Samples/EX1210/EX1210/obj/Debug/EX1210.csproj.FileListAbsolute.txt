@@ -1,0 +1,29 @@
+C:\Users\Theresa\Documents\McGrawHill\C# 2008\C# 2008 Solutions\_2008 Updated\Chapter12\EX1210\obj\Debug\EX1210.exe
+C:\Users\Theresa\Documents\McGrawHill\C# 2008\C# 2008 Solutions\_2008 Updated\Chapter12\EX1210\obj\Debug\EX1210.pdb
+C:\Users\Theresa\Documents\McGrawHill\C# 2008\C# 2008 Solutions\In Progress\Chapter12\EX1210\obj\Debug\EX1210.exe
+C:\Users\Theresa\Documents\McGrawHill\C# 2008\C# 2008 Solutions\In Progress\Chapter12\EX1210\obj\Debug\EX1210.pdb
+C:\Users\Theresa\Documents\McGrawHill\C# 2008\C# 2008 Solutions\In Progress\Chapter12\EX1210\bin\Debug\EX1210.exe
+C:\Users\Theresa\Documents\McGrawHill\C# 2008\C# 2008 Solutions\In Progress\Chapter12\EX1210\bin\Debug\EX1210.pdb
+C:\Users\Theresa\Documents\McGrawHill\C# 2008\C# 2008 Solutions\In Progress\Chapter12\EX1210\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Theresa\Documents\McGrawHill\C# 2008\C# 2008 Solutions\In Progress\Chapter12\EX1210\obj\Debug\EX1210.DisplayForm.resources
+C:\Users\Theresa\Documents\McGrawHill\C# 2008\C# 2008 Solutions\In Progress\Chapter12\EX1210\obj\Debug\EX1210.Properties.Resources.resources
+C:\Users\Theresa\Documents\McGrawHill\C# 2008\C# 2008 Solutions\In Progress\Chapter12\EX1210\obj\Debug\EX1210.SandwichForm.resources
+C:\Users\Theresa\Documents\McGrawHill\C# 2008\C# 2008 Solutions\In Progress\Chapter12\EX1210\obj\Debug\EX1210.csproj.GenerateResource.Cache
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Bradley C solutions\Chapter12\Chapter12\EX1210\EX1210\obj\Debug\EX1210.exe
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Bradley C solutions\Chapter12\Chapter12\EX1210\EX1210\obj\Debug\EX1210.pdb
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Bradley C solutions\Chapter12\Chapter12\EX1210\EX1210\bin\Debug\EX1210.exe
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Bradley C solutions\Chapter12\Chapter12\EX1210\EX1210\bin\Debug\EX1210.pdb
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Bradley C solutions\Chapter12\Chapter12\EX1210\EX1210\obj\Debug\ResolveAssemblyReference.cache
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Bradley C solutions\Chapter12\Chapter12\EX1210\EX1210\obj\Debug\EX1210.DisplayForm.resources
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Bradley C solutions\Chapter12\Chapter12\EX1210\EX1210\obj\Debug\EX1210.Properties.Resources.resources
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Bradley C solutions\Chapter12\Chapter12\EX1210\EX1210\obj\Debug\EX1210.SandwichForm.resources
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Bradley C solutions\Chapter12\Chapter12\EX1210\EX1210\obj\Debug\EX1210.csproj.GenerateResource.Cache
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2012\Faculty Samples\Chapt3 Classes\EX1210\obj\Debug\EX1210.exe
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2012\Faculty Samples\Chapt3 Classes\EX1210\obj\Debug\EX1210.pdb
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2012\Faculty Samples\Chapt3 Classes\EX1210\bin\Debug\EX1210.exe
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2012\Faculty Samples\Chapt3 Classes\EX1210\bin\Debug\EX1210.pdb
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2012\Faculty Samples\Chapt3 Classes\EX1210\obj\Debug\EX1210.csprojResolveAssemblyReference.cache
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2012\Faculty Samples\Chapt3 Classes\EX1210\obj\Debug\EX1210.DisplayForm.resources
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2012\Faculty Samples\Chapt3 Classes\EX1210\obj\Debug\EX1210.Properties.Resources.resources
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2012\Faculty Samples\Chapt3 Classes\EX1210\obj\Debug\EX1210.SandwichForm.resources
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2012\Faculty Samples\Chapt3 Classes\EX1210\obj\Debug\EX1210.csproj.GenerateResource.Cache
