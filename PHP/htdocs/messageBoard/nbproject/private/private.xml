@@ -3,17 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/xampp/htdocs/messageBoard/databaseFunctions.php</file>
             <file>file:/C:/xampp/htdocs/messageBoard/index.php</file>
             <file>file:/C:/xampp/htdocs/messageBoard/login.php</file>
-            <file>file:/C:/xampp/htdocs/messageBoard/connect.php</file>
             <file>file:/C:/xampp/htdocs/messageBoard/menuBar.php</file>
-            <file>file:/C:/xampp/htdocs/messageBoard/register.php</file>
-            <file>file:/C:/xampp/htdocs/messageBoard/js/validation.js</file>
-            <file>file:/C:/xampp/htdocs/messageBoard/databaseFunctions.php</file>
             <file>file:/C:/xampp/htdocs/messageBoard/css/template.css</file>
+            <file>file:/C:/xampp/htdocs/messageBoard/register.php</file>
             <file>file:/C:/xampp/htdocs/messageBoard/css/bootstrap.min.css</file>
             <file>file:/C:/xampp/htdocs/messageBoard/ckeditor/contents.css</file>
+            <file>file:/C:/xampp/htdocs/messageBoard/js/validation.js</file>
             <file>file:/C:/xampp/htdocs/messageBoard/recaptchalib.php</file>
+            <file>file:/C:/xampp/htdocs/messageBoard/connect.php</file>
         </group>
     </open-files>
 </project-private>
