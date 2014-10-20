@@ -1,0 +1,16 @@
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\bin\Debug\LoanApp.exe.config
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.Properties.Resources.resources
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.csproj.GenerateResource.Cache
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.exe
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.pdb
+C:\CSharp_4thEdition\AuthorsFirst\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.LoanAppForm.resources
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\bin\Debug\LoanApp.exe.config
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.exe
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.pdb
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.LoanAppForm.resources
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.Properties.Resources.resources
+C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.csproj.GenerateResource.Cache
