@@ -26,6 +26,8 @@ namespace PizzaInAMinute
     Author: Michael Fesser
     Version: #1.0
     Description: This is the main class for the orderForm form.  This class holds all the methods that get the information from the user.
+    Addtionally there is a "invisible" textbox at the bottom of the page to deal with some autoformatting issues cutting off the 
+    very bottom of the submit button.
     Dependencies: None.
     Change History: None.
     */

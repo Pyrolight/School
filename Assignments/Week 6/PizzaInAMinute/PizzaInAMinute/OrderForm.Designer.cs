@@ -119,6 +119,7 @@
             this.subtotalTB = new System.Windows.Forms.TextBox();
             this.header = new System.Windows.Forms.PictureBox();
             this.exitButton = new System.Windows.Forms.Button();
+            this.hiddenPadding = new System.Windows.Forms.TextBox();
             this.extrasGB.SuspendLayout();
             this.pizzaGB.SuspendLayout();
             this.toppingsGB.SuspendLayout();
@@ -265,7 +266,7 @@
             // 
             // resetOrderButton
             // 
-            this.resetOrderButton.Location = new System.Drawing.Point(103, 657);
+            this.resetOrderButton.Location = new System.Drawing.Point(122, 657);
             this.resetOrderButton.Name = "resetOrderButton";
             this.resetOrderButton.Size = new System.Drawing.Size(75, 23);
             this.resetOrderButton.TabIndex = 20;
@@ -277,9 +278,9 @@
             // 
             this.confimSelectionButton.Location = new System.Drawing.Point(15, 658);
             this.confimSelectionButton.Name = "confimSelectionButton";
-            this.confimSelectionButton.Size = new System.Drawing.Size(82, 23);
+            this.confimSelectionButton.Size = new System.Drawing.Size(101, 23);
             this.confimSelectionButton.TabIndex = 18;
-            this.confimSelectionButton.Text = "Confim Selection";
+            this.confimSelectionButton.Text = "Confirm Selection";
             this.confimSelectionButton.UseVisualStyleBackColor = true;
             this.confimSelectionButton.Click += new System.EventHandler(this.addItemsButton_Click);
             // 
@@ -998,7 +999,7 @@
             // 
             // submitOrderButton
             // 
-            this.submitOrderButton.Location = new System.Drawing.Point(12, 939);
+            this.submitOrderButton.Location = new System.Drawing.Point(15, 940);
             this.submitOrderButton.Name = "submitOrderButton";
             this.submitOrderButton.Size = new System.Drawing.Size(85, 23);
             this.submitOrderButton.TabIndex = 49;
@@ -1071,7 +1072,7 @@
             // 
             // exitButton
             // 
-            this.exitButton.Location = new System.Drawing.Point(185, 658);
+            this.exitButton.Location = new System.Drawing.Point(203, 657);
             this.exitButton.Name = "exitButton";
             this.exitButton.Size = new System.Drawing.Size(75, 23);
             this.exitButton.TabIndex = 61;
@@ -1079,11 +1080,22 @@
             this.exitButton.UseVisualStyleBackColor = true;
             this.exitButton.Click += new System.EventHandler(this.exitButton_Click);
             // 
+            // hiddenPadding
+            // 
+            this.hiddenPadding.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.hiddenPadding.Location = new System.Drawing.Point(209, 972);
+            this.hiddenPadding.Name = "hiddenPadding";
+            this.hiddenPadding.ReadOnly = true;
+            this.hiddenPadding.Size = new System.Drawing.Size(100, 13);
+            this.hiddenPadding.TabIndex = 62;
+            // 
             // orderForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(601, 998);
+            this.AutoScroll = true;
+            this.ClientSize = new System.Drawing.Size(601, 882);
+            this.Controls.Add(this.hiddenPadding);
             this.Controls.Add(this.exitButton);
             this.Controls.Add(this.header);
             this.Controls.Add(this.totalLabel);
@@ -1213,6 +1225,7 @@
         private System.Windows.Forms.TextBox subtotalTB;
         private System.Windows.Forms.PictureBox header;
         private System.Windows.Forms.Button exitButton;
+        private System.Windows.Forms.TextBox hiddenPadding;
 
     }
 }

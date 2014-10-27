@@ -10,3 +10,14 @@ C:\Users\Michael\Documents\Visual Studio 2013\Projects\PizzaInAMinute\PizzaInAMi
 C:\Users\Michael\Documents\Visual Studio 2013\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.orderSummaryForm.resources
 C:\Users\Michael\Documents\Visual Studio 2013\Projects\PizzaInAMinute\PizzaInAMinute\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
 C:\Users\Michael\Documents\Visual Studio 2013\Projects\PizzaInAMinute\PizzaInAMinute\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\bin\Debug\PizzaInAMinute.exe.config
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\bin\Debug\PizzaInAMinute.exe
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\bin\Debug\PizzaInAMinute.pdb
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.csprojResolveAssemblyReference.cache
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.orderForm.resources
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.OrderSummaryForm.resources
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.Properties.Resources.resources
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.csproj.GenerateResource.Cache
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.exe
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.pdb
