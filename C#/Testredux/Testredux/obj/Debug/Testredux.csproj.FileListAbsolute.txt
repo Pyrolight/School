@@ -7,3 +7,12 @@ c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\obj\D
 c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\obj\Debug\Testredux.csproj.GenerateResource.Cache
 c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\obj\Debug\Testredux.exe
 c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\obj\Debug\Testredux.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Testredux\Testredux\bin\Debug\Testredux.exe.config
+C:\Users\Michael\Documents\GitHub\School\C#\Testredux\Testredux\obj\Debug\Testredux.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Testredux\Testredux\obj\Debug\Testredux.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Testredux\Testredux\bin\Debug\Testredux.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Testredux\Testredux\bin\Debug\Testredux.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Testredux\Testredux\obj\Debug\Testredux.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\School\C#\Testredux\Testredux\obj\Debug\Testredux.randysSportingConsulting.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Testredux\Testredux\obj\Debug\Testredux.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Testredux\Testredux\obj\Debug\Testredux.csproj.GenerateResource.Cache

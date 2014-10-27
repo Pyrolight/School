@@ -7,3 +7,6 @@ c:\users\michael\documents\visual studio 2012\Projects\AcmeWidgetCompany\AcmeWid
 c:\users\michael\documents\visual studio 2012\Projects\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.exe
 c:\users\michael\documents\visual studio 2012\Projects\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.pdb
 c:\Users\Michael\Documents\Visual Studio 2012\Projects\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\School\Assignments\Week 3\AcmeWidgetCompany\AcmeWidgetCompany\bin\Debug\AcmeWidgetCompany.exe.config
+C:\Users\Michael\Documents\GitHub\School\Assignments\Week 3\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.exe
+C:\Users\Michael\Documents\GitHub\School\Assignments\Week 3\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.pdb

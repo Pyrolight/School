@@ -56,3 +56,6 @@ C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provid
 C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.InternetShippingForm.resources
 C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.Properties.Resources.resources
 C:\Users\Michael\Documents\GitHub\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\obj\Debug\Internet Merchandise Provider.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\GitHub\School\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\bin\Debug\InternetMerchandiseProvider.exe.config
+C:\Users\Michael\Documents\GitHub\School\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.exe
+C:\Users\Michael\Documents\GitHub\School\Assignments\Week 2\Internet Merchandise Provider\InternetMerchandiseProvider\obj\Debug\InternetMerchandiseProvider.pdb
