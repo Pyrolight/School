@@ -19,3 +19,9 @@ C:\Users\Michael\Documents\GitHub\C#\Lab Samples\VisualInheritanceSample\VisualI
 C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\VisualInheritanceSample\VisualInheritanceSample\bin\Debug\VisualInheritanceSample.exe.config
 C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\VisualInheritanceSample\VisualInheritanceSample\obj\Debug\VisualInheritanceSample.exe
 C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\VisualInheritanceSample\VisualInheritanceSample\obj\Debug\VisualInheritanceSample.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\VisualInheritanceSample\VisualInheritanceSample\bin\Debug\VisualInheritanceSample.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\VisualInheritanceSample\VisualInheritanceSample\bin\Debug\VisualInheritanceSample.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\VisualInheritanceSample\VisualInheritanceSample\obj\Debug\VisualInheritanceSample.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\VisualInheritanceSample\VisualInheritanceSample\obj\Debug\WindowsFormsApplication1.BaseForm.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\VisualInheritanceSample\VisualInheritanceSample\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\VisualInheritanceSample\VisualInheritanceSample\obj\Debug\VisualInheritanceSample.csproj.GenerateResource.Cache

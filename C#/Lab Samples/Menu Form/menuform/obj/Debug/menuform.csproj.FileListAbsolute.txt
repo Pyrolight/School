@@ -8,3 +8,13 @@ c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\bin\Deb
 c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\obj\Debug\menuform.exe
 c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\obj\Debug\menuform.pdb
 c:\users\mfesser\documents\visual studio 2012\Projects\menuform\menuform\obj\Debug\menuform.Form2.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\Menu Form\menuform\bin\Debug\menuform.exe.config
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\Menu Form\menuform\obj\Debug\menuform.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\Menu Form\menuform\obj\Debug\menuform.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\Menu Form\menuform\bin\Debug\menuform.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\Menu Form\menuform\bin\Debug\menuform.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\Menu Form\menuform\obj\Debug\menuform.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\Menu Form\menuform\obj\Debug\menuform.Form1.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\Menu Form\menuform\obj\Debug\menuform.Form2.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\Menu Form\menuform\obj\Debug\menuform.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\Menu Form\menuform\obj\Debug\menuform.csproj.GenerateResource.Cache
