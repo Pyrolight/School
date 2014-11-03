@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<system>
+    <computer>
+        <monitor>Samsung T28C570 28IN FHD LED VA Monitor</monitor>
+        <keyboard>Microsoft Natural Ergonomic 4000 Keyboard USB Retail</keyboard>
+        <mouse>Logitech G502 Proteus Core Tunable Gaming Mouse </mouse>        
+        <opticalDisk>LG CH12NS3012X BD-ROM Reading Max 16x DVD-R Writing Speed Blu-Ray Combo</opticalDisk>
+        <case>Fractal Design Core Series 3500 ATX Mid Tower Case Black No PSU</case>
+        <powerSupply>Antec High Current Gamer 850W 24PIN ATX12V V2.3 Active PFC 80 Plus Bronze Modular Power Supply</powerSupply>
+        <memory>G.SKILL Ripjaws X F3-14900CL9D-8GBXL 8GB 2X4GB DDR3-1866 CL9-10-9-28 Memory</memory>
+        <motherboard>ASUS Maximus VII Hero ATX LGA1150 Z97 3PCI-E16 3PCI-E1 SATA3 USB3.0 CrossFireX/SLI HDMI Motherboard</motherboard>
+        <cpu>Intel Core i7 4770K Unlocked Quad Core 3.5GHZ Processor LGA1150 Haswell 8MB Cache Retail</cpu>
+        <diskDrive>Western Digitial WD2003FZEX Black 2TB SATA 6GB/S 7200RPM 64MB Cache 3.5in Hard Drive</diskDrive>
+        <videoCard>EVGA GeForce GTX760 Dual Superclocked 2GB GDDR5 HDMI DP 2xDVI SLI Graphics Card</videoCard>              
+        <soundCard>On Board</soundCard>
+        <operatingSystem>Microsoft Windows 8.1 64Bit English DVD Retail</operatingSystem>
+        <price>$3000.50</price>
+    </computer>
+    <computer>
+        <monitor>Nixeus 30IN WQXGA IPS High Resolution LED Monitor</monitor>
+        <keyboard>Logitech G710+ Mechanical Gaming Keyboard</keyboard>
+        <mouse>Razer DeathAdder 2013 Essential Ergonomic Gaming Mouse</mouse>        
+        <opticalDisk>LG WH16NS40 16x Blu-Ray Writer BD-R SATA M-DISC Support Black OEM</opticalDisk>
+        <case>Bitfenix Pandora mATX Case Black Window LCD 2X2.5IN 2X3.5IN No PS</case>
+        <powerSupply>Fractal Newton R3 800W ATX 12V 80PLUS Platinum SLI and CrossFireX Support Power Supply</powerSupply>
+        <memory>Avexir Core Series 8GB 2X4GB DDR3-1600 9-9-9-24 1.5V Red LED Dual Channel Memory Kit</memory>
+        <motherboard>ASUS A88X-PRO FM2+ A88X Cfx 3XPCIE16 2xPCIe1 2XPCI ATX HDMI DP eSATA USB3.0 Motherboard</motherboard>
+        <cpu>AMD A10-5800K APU Quad Core Processor Socket FM2 3.8GHZ 4MB 100W Retail Box</cpu>
+        <diskDrive>Seagate Barracuda 3TB 7200RPM SATA3 64MB Cache 3.5in Internal Hard Drive</diskDrive>
+        <videoCard>On Board</videoCard>              
+        <soundCard>Creative Soundblaster Zxr PCIe Sound Card</soundCard>
+        <operatingSystem>Microsoft Windows 8.1 64Bit English DVD Retail</operatingSystem>
+        <price>$2589.95</price>
+    </computer>
+    <computer>
+        <monitor>BenQ XL2411Z 24IN LED 144HZ 1ms GTG FPS/RTS Gaming Monitor</monitor>
+        <keyboard>Corsair Gaming K70 RGB LED Cherry MX Brown Switches Backlit Mechanical Gaming Keyboard</keyboard>
+        <mouse>Roccat Tyon Black 8200DPI All Action MULTI-BUTTON Laser Gaming Mouse</mouse>        
+        <opticalDisk>ASUS BW-16D1HT Extreme 16BX Blu-ray M-DISC BDXL Support Blu-ray Writer</opticalDisk>
+        <case>Corsair Graphite Series 780T Full Tower Gaming White Case ATX Toolfree SSD Cages Modular Drive Cage</case>
+        <powerSupply>Corsair AX1200I 1200W Digital ATX 12V 80 Plus Platinum Modular Power Supply</powerSupply>
+        <memory>G.SKILL F3-12800CL10D-16GBXL Ripjaws X 16GB 2X8GB Kits 240PIN DDR3 SDRAM DDR3 1600 Desktop Memory</memory>
+        <motherboard>MSI Z97-G45 Gaming ATX LGA1150 Z87 3PCI-E16 4PCI-E1 CrossFireX/SLI SATA3 4K HDMI USB3.0 Motherboard</motherboard>
+        <cpu>Intel Core i7 4790K Unlocked Quad Core HT 4GHZ/4.4GHZ Processor LGA1150 Haswell 8MB Cache Retail</cpu>
+        <diskDrive>Crucial M500 CT120M500SSD1 2.5in 120GB SATA3 6BPS 7MM Internal Solid State Drive</diskDrive>
+        <videoCard>Gigabyte GTX 970 G1 1329MHZ 4GB 7.0GHZ GDDR5 2xHDMI DVI DisplayPort PCI-E Video Card</videoCard>              
+        <soundCard>On Board</soundCard>
+        <operatingSystem>Microsoft Windows 8.1 64Bit English DVD Retail</operatingSystem>
+        <price>$3565.50</price>
+    </computer>
+    <computer>
+        <monitor>Samsung U28D590D 28IN 4K UHD LED Monitor</monitor>
+        <keyboard>Razer BlackWidow Ultimate 2014 Elite Razer Green Switch Mechanical Gaming Keyboard</keyboard>
+        <mouse>Microsoft Sculpt Wireless Comfort Mouse</mouse>        
+        <opticalDisk>ASUS BW-12B1ST Blu-Ray Writer 12X BD-R 16X DVD+R SATA Black Retail</opticalDisk>
+        <case>Anidees AI6 Mid Tower ATX Aluminum 3X5.25 7X3.5 8X2.5 USB3.0 Case No PSU</case>
+        <powerSupply>Enermax Platimax 1000W ATX12V / EPS12V 80 Plus Platinum Full Modular Active PFC Power Supply</powerSupply>
+        <memory>Corsair Vengeance Black CMZ16GX3M2A1600C10 16GB 2X8GB DDR3-1600 CL10 1.5V Dual Channel Memory Kit</memory>
+        <motherboard>ASUS A88X-PLUS FM2+ A88X Cfx 2xPCIe16 2XPCIE 3XPCI HDMI DVI USB3.0 ATX Motherboard</motherboard>
+        <cpu>AMD A10-6790K Richland Quad Core Socket FM2 4.3GHZ 100W APU Retail Box</cpu>
+        <diskDrive>SanDisk 256GB 2.5in SSD SATA3 SDSSDP-256G-G25 Solid State Drive</diskDrive>
+        <videoCard>On Board</videoCard>              
+        <soundCard>Creative Soundblaster Z PCIe Sound Card Retail</soundCard>
+        <operatingSystem>Microsoft Windows 8.1 64Bit English DVD Retail</operatingSystem>
+        <price>$1995.95</price>
+    </computer>
+    <computer>
+        <monitor>ASUS VE247H 23.6IN Widescreen LED LCD Monitor</monitor>
+        <keyboard>Roccat Ryos Mk Pro Cherry MX Brown Switch Mechanical Gaming Keyboard</keyboard>
+        <mouse>Steelseries Sensei RAW Rubberized 5670 Dcpi Laser Gaming Mouse</mouse>        
+        <opticalDisk>ASUS BC-12B1ST Internal 12X Blu-ray Reader 16X DVD Writer Combo Drive</opticalDisk>
+        <case>NZXT H440 ATX Mid Tower 7X2.5IN 5X3.5IN 2XUSB3.0 Steel Computer Case No PSU</case>
+        <powerSupply>Corsair CS750M CS Modular 80 Plus GOLD-RATE 750W 12V Power Supply</powerSupply>
+        <memory>Corsair Vengeance Black CMZ16GX3M2A1600C10 16GB 2X8GB DDR3-1600 CL10 1.5V Dual Channel Memory Kit</memory>
+        <motherboard>Gigabyte Z97X-UD3H Black ATX LGA1150 Z97 DDR3 PCI-E16 PCI-E8 XFIRE/SLI SATA3 USB3 HDMI Motherboard</motherboard>
+        <cpu>Intel Core i5 4670K Unlocked Quad Core 3.4GHZ Processor LGA1150 Haswell 6MB Cache Retail</cpu>
+        <diskDrive>Kingston HyperX Fury 120GB SSD SATA3 SandForce SF2281 2.5in 7MM Solid Stat Disk Drive</diskDrive>
+        <videoCard>EVGA GeForce GTX980 Superclocked ACX2.0 4GB GDDR5 256BIT DVI-I 3xDP HDMI SLI Ready Graphics Card</videoCard>              
+        <soundCard>Creative Soundblaster Audigy RX PCI-E 24 Bit Sound Card</soundCard>
+        <operatingSystem>Microsoft Windows 8.1 64Bit English DVD Retail</operatingSystem>
+        <price>$2164.87</price>
+    </computer>
+</system>
