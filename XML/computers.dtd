@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/computers.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE system SYSTEM "computers.dtd">
+
+    <system>
+    ...
+    </system>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT system (computer)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT computer (price|operatingSystem|monitor|keyboard|mouse|opticalDisk|case|powerSupply|memory|motherboard|cpu|diskDrive|videoCard|soundCard)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT monitor (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT keyboard (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT mouse (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT opticalDisk (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT case (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT powerSupply (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT memory (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT motherboard (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT cpu (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT diskDrive (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT videoCard (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT soundCard (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT operatingSystem (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT price (#PCDATA)>
