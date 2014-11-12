@@ -26,7 +26,7 @@ if (isset($_GET['query'])) {
 
     if ($rowCount > 0) {
         while ($stmt->fetch()) {
-            echo $name . " " . $population . "<br />";
+            echo utf8_encode($name) . " " . $population . "<br />";
         }
         // Close statement.
         $stmt->close();
