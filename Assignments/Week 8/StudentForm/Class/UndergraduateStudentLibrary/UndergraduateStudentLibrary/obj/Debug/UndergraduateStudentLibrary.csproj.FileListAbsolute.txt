@@ -1,0 +1,11 @@
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\UndergraduateStudentLibrary\UndergraduateStudentLibrary\bin\Debug\UndergraduateStudentLibrary.dll
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\UndergraduateStudentLibrary\UndergraduateStudentLibrary\bin\Debug\UndergraduateStudentLibrary.pdb
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\UndergraduateStudentLibrary\UndergraduateStudentLibrary\obj\Debug\UndergraduateStudentLibrary.dll
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\UndergraduateStudentLibrary\UndergraduateStudentLibrary\obj\Debug\UndergraduateStudentLibrary.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\UndergraduateStudentLibrary\UndergraduateStudentLibrary\bin\Debug\UndergraduateStudentLibrary.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\UndergraduateStudentLibrary\UndergraduateStudentLibrary\bin\Debug\UndergraduateStudentLibrary.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\UndergraduateStudentLibrary\UndergraduateStudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\UndergraduateStudentLibrary\UndergraduateStudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\UndergraduateStudentLibrary\UndergraduateStudentLibrary\obj\Debug\UndergraduateStudentLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\UndergraduateStudentLibrary\UndergraduateStudentLibrary\obj\Debug\UndergraduateStudentLibrary.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\UndergraduateStudentLibrary\UndergraduateStudentLibrary\obj\Debug\UndergraduateStudentLibrary.pdb

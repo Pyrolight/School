@@ -1,0 +1,11 @@
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\GraduateStudentLibrary\GraduateStudentLibrary\bin\Debug\GraduateStudentLibrary.dll
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\GraduateStudentLibrary\GraduateStudentLibrary\bin\Debug\GraduateStudentLibrary.pdb
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\GraduateStudentLibrary\GraduateStudentLibrary\obj\Debug\GraduateStudentLibrary.dll
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\GraduateStudentLibrary\GraduateStudentLibrary\obj\Debug\GraduateStudentLibrary.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\GraduateStudentLibrary\GraduateStudentLibrary\bin\Debug\GraduateStudentLibrary.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\GraduateStudentLibrary\GraduateStudentLibrary\bin\Debug\GraduateStudentLibrary.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\GraduateStudentLibrary\GraduateStudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\GraduateStudentLibrary\GraduateStudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\GraduateStudentLibrary\GraduateStudentLibrary\obj\Debug\GraduateStudentLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\GraduateStudentLibrary\GraduateStudentLibrary\obj\Debug\GraduateStudentLibrary.dll
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\StudentForm\Class\GraduateStudentLibrary\GraduateStudentLibrary\obj\Debug\GraduateStudentLibrary.pdb
