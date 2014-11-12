@@ -28,11 +28,11 @@ if (isset($_GET['query'])) {
         while ($stmt->fetch()) {
             echo utf8_encode($name) . " " . $population . "<br />";
         }
-        // Close statement.
-        $stmt->close();
-        // Close connection.
-        $mysqli->close();   
     }
+    // Close statement.
+    $stmt->close();
+    // Close connection.
+    $mysqli->close();
 } else {
     if (isset($_POST['XMLFeedSubmit'])) {
         $order = $_POST['order'];
@@ -71,11 +71,11 @@ if (isset($_GET['query'])) {
             $location->addChild('name', utf8_encode($name));
             $location->addChild('population', $population);
         }
-        // Close statement.
-        $stmt->close();
-        // Close connection.
-        $mysqli->close();
     }
+    // Close statement.
+    $stmt->close();
+    // Close connection.
+    $mysqli->close();
 
     header('Content-type:text/xml;charset=utf8');
     echo $censusXML->asXML();

@@ -13,3 +13,18 @@ c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\o
 c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\Student Form.csproj.GenerateResource.Cache
 c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.exe
 c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.pdb
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\bin\Debug\StudentForm.exe.config
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\obj\Debug\StudentForm.exe
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\obj\Debug\StudentForm.pdb
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\bin\Debug\StudentForm.exe
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\bin\Debug\StudentForm.pdb
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\bin\Debug\GraduateStudentLibrary.dll
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\bin\Debug\StudentLibrary.dll
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\bin\Debug\UndergraduateStudentLibrary.dll
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\bin\Debug\GraduateStudentLibrary.pdb
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\bin\Debug\StudentLibrary.pdb
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\bin\Debug\UndergraduateStudentLibrary.pdb
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\obj\Debug\Student Form.csprojResolveAssemblyReference.cache
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\obj\Debug\StudentForm.Presentation.resources
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\obj\Debug\StudentForm.Properties.Resources.resources
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 8\StudentForm\StudentForm\obj\Debug\Student Form.csproj.GenerateResource.Cache

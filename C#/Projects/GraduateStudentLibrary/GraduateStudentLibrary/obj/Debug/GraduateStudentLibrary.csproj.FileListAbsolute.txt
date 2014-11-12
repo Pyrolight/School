@@ -1,0 +1,4 @@
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\GraduateStudentLibrary\GraduateStudentLibrary\bin\Debug\GraduateStudentLibrary.dll
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\GraduateStudentLibrary\GraduateStudentLibrary\bin\Debug\GraduateStudentLibrary.pdb
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\GraduateStudentLibrary\GraduateStudentLibrary\obj\Debug\GraduateStudentLibrary.dll
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\GraduateStudentLibrary\GraduateStudentLibrary\obj\Debug\GraduateStudentLibrary.pdb

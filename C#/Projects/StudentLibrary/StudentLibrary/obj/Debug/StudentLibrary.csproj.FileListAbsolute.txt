@@ -1,0 +1,5 @@
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\StudentLibrary\StudentLibrary\bin\Debug\StudentLibrary.dll
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\StudentLibrary\StudentLibrary\bin\Debug\StudentLibrary.pdb
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.csprojResolveAssemblyReference.cache
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.dll
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\Class\StudentLibrary\StudentLibrary\obj\Debug\StudentLibrary.pdb

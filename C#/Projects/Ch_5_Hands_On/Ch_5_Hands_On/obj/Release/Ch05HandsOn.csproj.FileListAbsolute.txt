@@ -1,0 +1,8 @@
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\bin\Release\Ch05HandsOn.exe
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\bin\Release\Ch05HandsOn.pdb
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\obj\Release\Ch05HandsOn.JuiceBarForm.resources
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\obj\Release\Ch05HandsOn.Properties.Resources.resources
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\obj\Release\Ch05HandsOn.csproj.GenerateResource.Cache
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\obj\Release\Ch05HandsOn.exe
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\obj\Release\Ch05HandsOn.pdb

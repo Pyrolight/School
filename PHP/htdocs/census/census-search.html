@@ -10,10 +10,10 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script>
-            function showHint(string)
+            function showCity(searchString)
             {
                 var xmlhttp;
-                if (string.length === 0)
+                if (searchString.length === 0)
                 {
                     document.getElementById("searchResults").innerHTML = "";
                     return;
@@ -33,19 +33,19 @@ and open the template in the editor.
                         document.getElementById("searchResults").innerHTML = xmlhttp.responseText;
                     }
                 };
-                xmlhttp.open("GET", "census.php?query=" + string, true);
+                xmlhttp.open("GET", "census.php?query=" + searchString, true);
                 xmlhttp.send();
             }
         </script>
     </head>
     <body>
         <form action="census.php" method="POST">
-            Search: <input type="text" name="search" onkeyup="showHint(this.value)"><br/>
+            Search: <input type="text" name="search" onkeyup="showCity(this.value)"><br />
             <select name="order">
                 <option value="ASC" selected="">Ascending</option>
                 <option value="DESC" >Descending</option>
-            </select><br/>
-            Number of Results: <input type="text" name="numResults"><br/>
+            </select><br />
+            Number of Results: <input type="text" name="numResults"><br />
             <input type="submit" name="XMLFeedSubmit" value="Generate XML Feed">
         </form> 
         <div id="searchResults"></div>

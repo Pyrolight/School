@@ -1,0 +1,10 @@
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.exe.config
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\bin\Debug\Cottages2.accdb
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.csprojResolveAssemblyReference.cache
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.Form1.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.Properties.Resources.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.csproj.GenerateResource.Cache
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.pdb

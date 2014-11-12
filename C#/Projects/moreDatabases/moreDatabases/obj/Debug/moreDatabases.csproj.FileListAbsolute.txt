@@ -1,0 +1,8 @@
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\moreDatabases\moreDatabases\bin\Debug\moreDatabases.exe.config
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\moreDatabases\moreDatabases\bin\Debug\moreDatabases.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\moreDatabases\moreDatabases\bin\Debug\moreDatabases.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\moreDatabases\moreDatabases\obj\Debug\moreDatabases.Form1.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\moreDatabases\moreDatabases\obj\Debug\moreDatabases.Properties.Resources.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\moreDatabases\moreDatabases\obj\Debug\moreDatabases.csproj.GenerateResource.Cache
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\moreDatabases\moreDatabases\obj\Debug\moreDatabases.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\moreDatabases\moreDatabases\obj\Debug\moreDatabases.pdb

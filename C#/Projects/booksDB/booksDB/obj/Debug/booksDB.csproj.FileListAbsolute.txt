@@ -1,0 +1,10 @@
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\bin\Debug\booksDB.exe.config
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\bin\Debug\Books.accdb
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\bin\Debug\booksDB.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\bin\Debug\booksDB.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\obj\Debug\booksDB.csprojResolveAssemblyReference.cache
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\obj\Debug\booksDB.Form1.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\obj\Debug\booksDB.Properties.Resources.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\obj\Debug\booksDB.csproj.GenerateResource.Cache
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\obj\Debug\booksDB.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\obj\Debug\booksDB.pdb
