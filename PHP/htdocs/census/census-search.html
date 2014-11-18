@@ -1,15 +1,47 @@
 <!DOCTYPE html>
 <!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
+    Author: Michael Fesser   
+    Date: Nov 11, 2014
+    Purpose: This is a basic form to display census information.  It uses AJAX to display live results from the search input box.  It
+    will also display a XML document based on the search criteria as well as order and limit the list if the user should choose to.
+    Last Revision: Nov 14, 2014
+    Dependencies: census.php
 -->
 <html>
     <head>
-        <title>TODO supply a title</title>
+        <title>Census-Search</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <script>
+            /**
+             * This function is a very basic validation for the input field for the limit parameter.  The submit button is disabled if the 
+             * input is not a number.
+             * @param {type} searchString
+             * @returns
+             */
+            function inputError(numResults) {
+                // Test for numeric input.
+                regex = /[0-9]/;
+                if (!regex.test(numResults)) {
+                    document.getElementById('numberError').innerHTML = "<span style='color:red;'>  You need to enter a number for correct results.</span>";
+                     document.getElementById("XMLFeedSubmit").disabled = true;
+                } else {
+                    document.getElementById('numberError').innerHTML = "";
+                    document.getElementById("XMLFeedSubmit").disabled = false;
+                }
+                // Sets the default functionality when the user clears the input box.
+                if (numResults.length === 0) {
+                    document.getElementById('numberError').innerHTML = "";
+                    document.getElementById("XMLFeedSubmit").disabled = false;
+                }              
+            }
+            
+            /**
+             * This is the AJAX function used to do the live update of the search results.  It checks the database and then returns
+             * matching results to the characters entered.
+             * @param {type} searchString
+             * @returns 
+             */
             function showCity(searchString)
             {
                 var xmlhttp;
@@ -39,17 +71,18 @@ and open the template in the editor.
         </script>
     </head>
     <body>
+        <h1>2006 Census Data</h1>
         <form action="census.php" method="POST">
-            Search: <input type="text" name="search" onkeyup="showCity(this.value)"><br />
-            <select name="order">
+            <label>Search:  </label><input type="text" name="search" onkeyup="showCity(this.value)"> (Cities should display below)<br /><br />
+            <label>Result Order:  </label><select name="order"> 
                 <option value="ASC" selected="">Ascending</option>
                 <option value="DESC" >Descending</option>
-            </select><br />
-            Number of Results: <input type="text" name="numResults"><br />
-            <input type="submit" name="XMLFeedSubmit" value="Generate XML Feed">
+            </select><br /><br />
+            <label>Number of Results:  </label><input type="text" name="numResults" onkeyup="inputError(this.value)"><span id="numberError"></span><br /><br />
+            <input type="submit" name="XMLFeedSubmit" id="XMLFeedSubmit" value="Generate XML Feed"><br />
+            <span style="font-weight: bold;">Note:  The order and number of results options will only affect results generated when clicking the "Generate XML Feed" button.</span><br /><br />
         </form> 
+        <!-- Search results div -->
         <div id="searchResults"></div>
-
-        <div><a href="census.php">raw xml</a></div>
     </body>
 </html>
