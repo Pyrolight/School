@@ -8,3 +8,6 @@ c:\users\mfesser\documents\visual studio 2012\Projects\database\database\obj\Deb
 c:\users\mfesser\documents\visual studio 2012\Projects\database\database\obj\Debug\database.csproj.GenerateResource.Cache
 c:\users\mfesser\documents\visual studio 2012\Projects\database\database\obj\Debug\database.exe
 c:\users\mfesser\documents\visual studio 2012\Projects\database\database\obj\Debug\database.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\database\database\bin\Debug\database.exe.config
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\database\database\obj\Debug\database.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\database\database\obj\Debug\database.pdb

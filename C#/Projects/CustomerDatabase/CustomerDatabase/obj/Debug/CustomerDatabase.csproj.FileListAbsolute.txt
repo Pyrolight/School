@@ -8,3 +8,13 @@ c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\Cu
 c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.csproj.GenerateResource.Cache
 c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.exe
 c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.exe.config
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CustomerDatabase\CustomerDatabase\bin\Debug\Cottages2.accdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.Form1.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.csproj.GenerateResource.Cache

@@ -8,3 +8,13 @@ c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\obj
 c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\obj\Debug\booksDB.csproj.GenerateResource.Cache
 c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\obj\Debug\booksDB.exe
 c:\users\mfesser\documents\visual studio 2012\Projects\Class\booksDB\booksDB\obj\Debug\booksDB.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\booksDB\booksDB\bin\Debug\booksDB.exe.config
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\booksDB\booksDB\obj\Debug\booksDB.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\booksDB\booksDB\obj\Debug\booksDB.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\booksDB\booksDB\bin\Debug\booksDB.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\booksDB\booksDB\bin\Debug\booksDB.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\booksDB\booksDB\obj\Debug\booksDB.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\booksDB\booksDB\obj\Debug\booksDB.Form1.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\booksDB\booksDB\obj\Debug\booksDB.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\booksDB\booksDB\obj\Debug\booksDB.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\booksDB\booksDB\bin\Debug\Books.accdb

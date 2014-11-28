@@ -8,3 +8,13 @@ c:\users\mfesser\documents\visual studio 2012\Projects\HatsRUs\HatsRUs\obj\Debug
 c:\users\mfesser\documents\visual studio 2012\Projects\HatsRUs\HatsRUs\obj\Debug\HatsRUs.pdb
 c:\users\mfesser\documents\visual studio 2012\Projects\HatsRUs\HatsRUs\obj\Debug\HatsRUs.CompletedOrder.resources
 c:\Users\mfesser\Documents\Visual Studio 2012\Projects\HatsRUs\HatsRUs\obj\Debug\HatsRUs.OrderForm.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CIS2225_Practical2_Fesser_Michael\HatsRUs\HatsRUs\bin\Debug\HatsRUs.exe.config
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CIS2225_Practical2_Fesser_Michael\HatsRUs\HatsRUs\obj\Debug\HatsRUs.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CIS2225_Practical2_Fesser_Michael\HatsRUs\HatsRUs\obj\Debug\HatsRUs.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CIS2225_Practical2_Fesser_Michael\HatsRUs\HatsRUs\bin\Debug\HatsRUs.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CIS2225_Practical2_Fesser_Michael\HatsRUs\HatsRUs\bin\Debug\HatsRUs.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CIS2225_Practical2_Fesser_Michael\HatsRUs\HatsRUs\obj\Debug\HatsRUs.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CIS2225_Practical2_Fesser_Michael\HatsRUs\HatsRUs\obj\Debug\HatsRUs.CompletedOrder.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CIS2225_Practical2_Fesser_Michael\HatsRUs\HatsRUs\obj\Debug\HatsRUs.OrderForm.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CIS2225_Practical2_Fesser_Michael\HatsRUs\HatsRUs\obj\Debug\HatsRUs.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\CIS2225_Practical2_Fesser_Michael\HatsRUs\HatsRUs\obj\Debug\HatsRUs.csproj.GenerateResource.Cache
