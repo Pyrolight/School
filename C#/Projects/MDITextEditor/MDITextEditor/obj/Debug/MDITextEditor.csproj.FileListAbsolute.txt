@@ -1,0 +1,10 @@
+c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\bin\Debug\MDITextEditor.exe.config
+c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\bin\Debug\MDITextEditor.exe
+c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\bin\Debug\MDITextEditor.pdb
+c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.Form1.resources
+c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.exe
+c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.pdb
+c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.Form2.resources
