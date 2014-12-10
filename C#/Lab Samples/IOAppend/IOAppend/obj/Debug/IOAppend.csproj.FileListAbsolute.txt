@@ -1,0 +1,9 @@
+c:\users\mfesser\documents\visual studio 2012\Projects\IOAppend\IOAppend\bin\Debug\IOAppend.exe.config
+c:\users\mfesser\documents\visual studio 2012\Projects\IOAppend\IOAppend\bin\Debug\IOAppend.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\IOAppend\IOAppend\bin\Debug\IOAppend.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\IOAppend\IOAppend\obj\Debug\IOAppend.csprojResolveAssemblyReference.cache
+c:\users\mfesser\documents\visual studio 2012\Projects\IOAppend\IOAppend\obj\Debug\IOAppend.Form1.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\IOAppend\IOAppend\obj\Debug\IOAppend.Properties.Resources.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\IOAppend\IOAppend\obj\Debug\IOAppend.csproj.GenerateResource.Cache
+c:\users\mfesser\documents\visual studio 2012\Projects\IOAppend\IOAppend\obj\Debug\IOAppend.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\IOAppend\IOAppend\obj\Debug\IOAppend.pdb

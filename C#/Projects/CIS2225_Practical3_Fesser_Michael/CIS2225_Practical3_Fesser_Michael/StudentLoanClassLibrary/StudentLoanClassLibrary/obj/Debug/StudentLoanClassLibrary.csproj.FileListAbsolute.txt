@@ -1,0 +1,7 @@
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\StudentLoanClassLibrary\StudentLoanClassLibrary\bin\Debug\StudentLoanClassLibrary.dll
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\StudentLoanClassLibrary\StudentLoanClassLibrary\bin\Debug\StudentLoanClassLibrary.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\StudentLoanClassLibrary\StudentLoanClassLibrary\obj\Debug\StudentLoanClassLibrary.dll
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\StudentLoanClassLibrary\StudentLoanClassLibrary\obj\Debug\StudentLoanClassLibrary.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\StudentLoanClassLibrary\StudentLoanClassLibrary\obj\Debug\StudentLoanClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\StudentLoanClassLibrary\StudentLoanClassLibrary\bin\Debug\LoanClassLibrary.dll
+c:\users\mfesser\documents\visual studio 2012\Projects\Class\StudentLoanClassLibrary\StudentLoanClassLibrary\bin\Debug\LoanClassLibrary.pdb

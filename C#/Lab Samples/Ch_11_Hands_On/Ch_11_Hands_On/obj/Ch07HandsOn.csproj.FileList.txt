@@ -1,0 +1,8 @@
+obj\Debug\Ch07HandsOn.exe
+obj\Debug\Ch07HandsOn.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Ch07HandsOn.CoursesForm.resources
+obj\Debug\Ch07HandsOn.Properties.Resources.resources
+obj\Debug\Ch07HandsOn.csproj.GenerateResource.Cache
+bin\Debug\Ch07HandsOn.exe
+bin\Debug\Ch07HandsOn.pdb

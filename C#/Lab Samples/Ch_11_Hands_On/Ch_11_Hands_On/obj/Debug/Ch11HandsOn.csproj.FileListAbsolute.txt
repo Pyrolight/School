@@ -1,0 +1,24 @@
+C:\Users\Anita\Documents\C# 2008\Projects\ch11handson\Ch11HandsOn\obj\Debug\Ch11HandsOn.exe
+C:\Users\Anita\Documents\C# 2008\Projects\ch11handson\Ch11HandsOn\obj\Debug\Ch11HandsOn.pdb
+C:\Users\Anita\Documents\C# 2008\Projects\ch11handson\Ch11HandsOn\bin\Debug\Ch11HandsOn.exe
+C:\Users\Anita\Documents\C# 2008\Projects\ch11handson\Ch11HandsOn\bin\Debug\Ch11HandsOn.pdb
+C:\Users\Anita\Documents\C# 2008\Projects\ch11handson\Ch11HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anita\Documents\C# 2008\Projects\ch11handson\Ch11HandsOn\obj\Debug\Ch11HandsOn.CoursesForm.resources
+C:\Users\Anita\Documents\C# 2008\Projects\ch11handson\Ch11HandsOn\obj\Debug\Ch11HandsOn.Properties.Resources.resources
+C:\Users\Anita\Documents\C# 2008\Projects\ch11handson\Ch11HandsOn\obj\Debug\Ch11HandsOn.csproj.GenerateResource.Cache
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Ch_11_Hands_On\Ch_11_Hands_On\obj\Debug\Ch11HandsOn.exe
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Ch_11_Hands_On\Ch_11_Hands_On\obj\Debug\Ch11HandsOn.pdb
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Ch_11_Hands_On\Ch_11_Hands_On\bin\Debug\Ch11HandsOn.exe
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Ch_11_Hands_On\Ch_11_Hands_On\bin\Debug\Ch11HandsOn.pdb
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Ch_11_Hands_On\Ch_11_Hands_On\obj\Debug\ResolveAssemblyReference.cache
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Ch_11_Hands_On\Ch_11_Hands_On\obj\Debug\Ch11HandsOn.CoursesForm.resources
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Ch_11_Hands_On\Ch_11_Hands_On\obj\Debug\Ch11HandsOn.Properties.Resources.resources
+C:\MYDOCJune2014\CIS  Curriculum\Curriculum Delivery\C# 2008\Solutions\Ch_11_Hands_On\Ch_11_Hands_On\obj\Debug\Ch11HandsOn.csproj.GenerateResource.Cache
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_11_Hands_On\Ch_11_Hands_On\obj\Debug\Ch11HandsOn.exe
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_11_Hands_On\Ch_11_Hands_On\obj\Debug\Ch11HandsOn.pdb
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_11_Hands_On\Ch_11_Hands_On\bin\Debug\Ch11HandsOn.exe
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_11_Hands_On\Ch_11_Hands_On\bin\Debug\Ch11HandsOn.pdb
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_11_Hands_On\Ch_11_Hands_On\obj\Debug\Ch11HandsOn.csprojResolveAssemblyReference.cache
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_11_Hands_On\Ch_11_Hands_On\obj\Debug\Ch11HandsOn.CoursesForm.resources
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_11_Hands_On\Ch_11_Hands_On\obj\Debug\Ch11HandsOn.Properties.Resources.resources
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_11_Hands_On\Ch_11_Hands_On\obj\Debug\Ch11HandsOn.csproj.GenerateResource.Cache

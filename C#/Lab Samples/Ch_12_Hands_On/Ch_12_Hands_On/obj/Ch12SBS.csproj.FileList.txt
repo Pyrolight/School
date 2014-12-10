@@ -1,8 +1,0 @@
-obj\Debug\Ch12SBS.exe
-obj\Debug\Ch12SBS.pdb
-obj\Debug\ResolveAssemblyReference.cache
-obj\Debug\Ch12SBS.ClothingSaleForm.resources
-obj\Debug\Ch12SBS.Properties.Resources.resources
-obj\Debug\Ch12SBS.csproj.GenerateResource.Cache
-bin\Debug\Ch12SBS.exe
-bin\Debug\Ch12SBS.pdb

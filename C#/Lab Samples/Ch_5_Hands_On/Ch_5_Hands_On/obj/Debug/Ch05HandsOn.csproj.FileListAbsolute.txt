@@ -1,0 +1,32 @@
+C:\Users\Anita\Documents\C# 2008\Projects\ch05handson\Ch05HandsOn\obj\Debug\Ch05HandsOn.exe
+C:\Users\Anita\Documents\C# 2008\Projects\ch05handson\Ch05HandsOn\obj\Debug\Ch05HandsOn.pdb
+C:\Users\Anita\Documents\C# 2008\Projects\ch05handson\Ch05HandsOn\bin\Debug\Ch05HandsOn.exe
+C:\Users\Anita\Documents\C# 2008\Projects\ch05handson\Ch05HandsOn\bin\Debug\Ch05HandsOn.pdb
+C:\Users\Anita\Documents\C# 2008\Projects\ch05handson\Ch05HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anita\Documents\C# 2008\Projects\ch05handson\Ch05HandsOn\obj\Debug\Ch05HandsOn.JuiceBarForm.resources
+C:\Users\Anita\Documents\C# 2008\Projects\ch05handson\Ch05HandsOn\obj\Debug\Ch05HandsOn.Properties.Resources.resources
+C:\Users\Anita\Documents\C# 2008\Projects\ch05handson\Ch05HandsOn\obj\Debug\Ch05HandsOn.csproj.GenerateResource.Cache
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\obj\Debug\Ch05HandsOn.exe
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\obj\Debug\Ch05HandsOn.pdb
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\bin\Debug\Ch05HandsOn.exe
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\bin\Debug\Ch05HandsOn.pdb
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\obj\Debug\Ch05HandsOn.JuiceBarForm.resources
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\obj\Debug\Ch05HandsOn.Properties.Resources.resources
+C:\Users\Public\Csharp2008\InChapter Programs\Chap 5\Ch05HandsOn\obj\Debug\Ch05HandsOn.csproj.GenerateResource.Cache
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 05\Ch05HandsOn\obj\Debug\Ch05HandsOn.exe
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 05\Ch05HandsOn\obj\Debug\Ch05HandsOn.pdb
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 05\Ch05HandsOn\bin\Debug\Ch05HandsOn.exe
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 05\Ch05HandsOn\bin\Debug\Ch05HandsOn.pdb
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 05\Ch05HandsOn\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 05\Ch05HandsOn\obj\Debug\Ch05HandsOn.JuiceBarForm.resources
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 05\Ch05HandsOn\obj\Debug\Ch05HandsOn.Properties.Resources.resources
+C:\Documents and Settings\Judy\My Documents\Csharp2008\InChapterPrograms\Chap 05\Ch05HandsOn\obj\Debug\Ch05HandsOn.csproj.GenerateResource.Cache
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_5_Hands_On\Ch_5_Hands_On\obj\Debug\Ch05HandsOn.exe
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_5_Hands_On\Ch_5_Hands_On\obj\Debug\Ch05HandsOn.pdb
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_5_Hands_On\Ch_5_Hands_On\bin\Debug\Ch05HandsOn.exe
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_5_Hands_On\Ch_5_Hands_On\bin\Debug\Ch05HandsOn.pdb
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_5_Hands_On\Ch_5_Hands_On\obj\Debug\Ch05HandsOn.csprojResolveAssemblyReference.cache
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_5_Hands_On\Ch_5_Hands_On\obj\Debug\Ch05HandsOn.JuiceBarForm.resources
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_5_Hands_On\Ch_5_Hands_On\obj\Debug\Ch05HandsOn.Properties.Resources.resources
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\Ch_5_Hands_On\Ch_5_Hands_On\obj\Debug\Ch05HandsOn.csproj.GenerateResource.Cache

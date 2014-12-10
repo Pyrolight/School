@@ -10,3 +10,6 @@ c:\Users\Michael\Documents\Visual Studio 2012\Projects\AcmeWidgetCompany\AcmeWid
 C:\Users\Michael\Documents\GitHub\School\Assignments\Week 3\AcmeWidgetCompany\AcmeWidgetCompany\bin\Debug\AcmeWidgetCompany.exe.config
 C:\Users\Michael\Documents\GitHub\School\Assignments\Week 3\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.exe
 C:\Users\Michael\Documents\GitHub\School\Assignments\Week 3\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.pdb
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 3\AcmeWidgetCompany\AcmeWidgetCompany\bin\Debug\AcmeWidgetCompany.exe.config
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 3\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.exe
+C:\Users\mfesser\Documents\GitHub\School\Assignments\Week 3\AcmeWidgetCompany\AcmeWidgetCompany\obj\Debug\AcmeWidgetCompany.pdb

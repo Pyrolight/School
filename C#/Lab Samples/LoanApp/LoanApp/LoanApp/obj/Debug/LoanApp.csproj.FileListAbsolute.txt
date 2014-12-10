@@ -14,3 +14,12 @@ C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\bin\Debug\L
 C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.LoanAppForm.resources
 C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.Properties.Resources.resources
 C:\CSharp_4thEdition\RTP\Ch11\Ch11_Solutions\Ch11_06\LoanApp\LoanApp\obj\Debug\LoanApp.csproj.GenerateResource.Cache
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\LoanApp\LoanApp\LoanApp\bin\Debug\LoanApp.exe.config
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.exe
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.pdb
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\LoanApp\LoanApp\LoanApp\bin\Debug\LoanApp.exe
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\LoanApp\LoanApp\LoanApp\bin\Debug\LoanApp.pdb
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.csprojResolveAssemblyReference.cache
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.LoanAppForm.resources
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.Properties.Resources.resources
+C:\Users\mfesser\Documents\Visual Studio 2012\Projects\LoanApp\LoanApp\LoanApp\obj\Debug\LoanApp.csproj.GenerateResource.Cache

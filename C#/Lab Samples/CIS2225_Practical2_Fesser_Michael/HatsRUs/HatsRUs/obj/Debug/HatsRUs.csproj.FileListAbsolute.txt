@@ -1,0 +1,10 @@
+c:\users\mfesser\documents\visual studio 2012\Projects\HatsRUs\HatsRUs\bin\Debug\HatsRUs.exe.config
+c:\users\mfesser\documents\visual studio 2012\Projects\HatsRUs\HatsRUs\bin\Debug\HatsRUs.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\HatsRUs\HatsRUs\bin\Debug\HatsRUs.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\HatsRUs\HatsRUs\obj\Debug\HatsRUs.csprojResolveAssemblyReference.cache
+c:\users\mfesser\documents\visual studio 2012\Projects\HatsRUs\HatsRUs\obj\Debug\HatsRUs.Properties.Resources.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\HatsRUs\HatsRUs\obj\Debug\HatsRUs.csproj.GenerateResource.Cache
+c:\users\mfesser\documents\visual studio 2012\Projects\HatsRUs\HatsRUs\obj\Debug\HatsRUs.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\HatsRUs\HatsRUs\obj\Debug\HatsRUs.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\HatsRUs\HatsRUs\obj\Debug\HatsRUs.CompletedOrder.resources
+c:\Users\mfesser\Documents\Visual Studio 2012\Projects\HatsRUs\HatsRUs\obj\Debug\HatsRUs.OrderForm.resources

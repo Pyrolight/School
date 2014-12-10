@@ -1,0 +1,8 @@
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation2\Validation2\bin\Debug\Validation2.exe.config
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation2\Validation2\obj\Debug\Validation2.Form1.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation2\Validation2\obj\Debug\Validation2.Properties.Resources.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation2\Validation2\obj\Debug\Validation2.csproj.GenerateResource.Cache
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation2\Validation2\bin\Debug\Validation2.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation2\Validation2\bin\Debug\Validation2.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation2\Validation2\obj\Debug\Validation2.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation2\Validation2\obj\Debug\Validation2.pdb

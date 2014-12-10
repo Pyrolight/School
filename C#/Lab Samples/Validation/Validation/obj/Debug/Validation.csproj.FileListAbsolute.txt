@@ -1,0 +1,9 @@
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation\Validation\bin\Debug\Validation.exe.config
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation\Validation\obj\Debug\Validation.csprojResolveAssemblyReference.cache
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation\Validation\obj\Debug\Validation.Form1.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation\Validation\obj\Debug\Validation.Properties.Resources.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation\Validation\obj\Debug\Validation.csproj.GenerateResource.Cache
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation\Validation\bin\Debug\Validation.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation\Validation\bin\Debug\Validation.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation\Validation\obj\Debug\Validation.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\Validation\Validation\obj\Debug\Validation.pdb

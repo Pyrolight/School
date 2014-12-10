@@ -1,0 +1,10 @@
+c:\users\mfesser\documents\visual studio 2012\Projects\MDIForm\MDIForm\bin\Debug\MDIForm.exe.config
+c:\users\mfesser\documents\visual studio 2012\Projects\MDIForm\MDIForm\bin\Debug\MDIForm.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\MDIForm\MDIForm\bin\Debug\MDIForm.pdb
+c:\users\mfesser\documents\visual studio 2012\Projects\MDIForm\MDIForm\obj\Debug\MDIForm.csprojResolveAssemblyReference.cache
+c:\users\mfesser\documents\visual studio 2012\Projects\MDIForm\MDIForm\obj\Debug\MDIForm.Form2.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\MDIForm\MDIForm\obj\Debug\MDIForm.MDIParent1.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\MDIForm\MDIForm\obj\Debug\MDIForm.Properties.Resources.resources
+c:\users\mfesser\documents\visual studio 2012\Projects\MDIForm\MDIForm\obj\Debug\MDIForm.csproj.GenerateResource.Cache
+c:\users\mfesser\documents\visual studio 2012\Projects\MDIForm\MDIForm\obj\Debug\MDIForm.exe
+c:\users\mfesser\documents\visual studio 2012\Projects\MDIForm\MDIForm\obj\Debug\MDIForm.pdb

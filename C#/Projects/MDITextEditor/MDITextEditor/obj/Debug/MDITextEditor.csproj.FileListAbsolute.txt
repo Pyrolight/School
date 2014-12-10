@@ -8,3 +8,13 @@ c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEdit
 c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.pdb
 c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.csprojResolveAssemblyReference.cache
 c:\users\michael\documents\visual studio 2012\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.Form2.resources
+C:\Users\mfesser\Documents\GitHub\School\C#\Projects\MDITextEditor\MDITextEditor\bin\Debug\MDITextEditor.exe.config
+C:\Users\mfesser\Documents\GitHub\School\C#\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.exe
+C:\Users\mfesser\Documents\GitHub\School\C#\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.pdb
+C:\Users\mfesser\Documents\GitHub\School\C#\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.Form1.resources
+C:\Users\mfesser\Documents\GitHub\School\C#\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.Form2.resources
+C:\Users\mfesser\Documents\GitHub\School\C#\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.Properties.Resources.resources
+C:\Users\mfesser\Documents\GitHub\School\C#\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.csproj.GenerateResource.Cache
+C:\Users\mfesser\Documents\GitHub\School\C#\Projects\MDITextEditor\MDITextEditor\bin\Debug\MDITextEditor.exe
+C:\Users\mfesser\Documents\GitHub\School\C#\Projects\MDITextEditor\MDITextEditor\bin\Debug\MDITextEditor.pdb
+C:\Users\mfesser\Documents\GitHub\School\C#\Projects\MDITextEditor\MDITextEditor\obj\Debug\MDITextEditor.csprojResolveAssemblyReference.cache
