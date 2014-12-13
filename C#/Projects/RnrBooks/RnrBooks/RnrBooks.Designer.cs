@@ -37,6 +37,7 @@
             System.Windows.Forms.Label subject_CodeLabel;
             System.Windows.Forms.Label shelf_LocationLabel;
             System.Windows.Forms.Label fictionLabel;
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(RnrBooksForm));
             this.titleListingCB = new System.Windows.Forms.ComboBox();
             this.booksBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.rnrBooksDataSet = new RnrBooks.RnrBooksDataSet();
@@ -54,6 +55,9 @@
             this.subject_CodeTextBox = new System.Windows.Forms.TextBox();
             this.shelf_LocationTextBox = new System.Windows.Forms.TextBox();
             this.fictionCheckBox = new System.Windows.Forms.CheckBox();
+            this.aRTFillToolStrip = new System.Windows.Forms.ToolStrip();
+            this.aRTFillToolStripButton = new System.Windows.Forms.ToolStripButton();
+            this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             label1 = new System.Windows.Forms.Label();
             iSBNLabel = new System.Windows.Forms.Label();
             titleLabel = new System.Windows.Forms.Label();
@@ -64,6 +68,7 @@
             fictionLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.booksBindingSource)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.rnrBooksDataSet)).BeginInit();
+            this.aRTFillToolStrip.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -279,11 +284,41 @@
             this.fictionCheckBox.TabIndex = 7;
             this.fictionCheckBox.UseVisualStyleBackColor = true;
             // 
-            // rnrBooksForm
+            // aRTFillToolStrip
+            // 
+            this.aRTFillToolStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripButton1,
+            this.aRTFillToolStripButton});
+            this.aRTFillToolStrip.Location = new System.Drawing.Point(0, 0);
+            this.aRTFillToolStrip.Name = "aRTFillToolStrip";
+            this.aRTFillToolStrip.Size = new System.Drawing.Size(427, 25);
+            this.aRTFillToolStrip.TabIndex = 63;
+            this.aRTFillToolStrip.Text = "aRTFillToolStrip";
+            // 
+            // aRTFillToolStripButton
+            // 
+            this.aRTFillToolStripButton.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.aRTFillToolStripButton.Name = "aRTFillToolStripButton";
+            this.aRTFillToolStripButton.Size = new System.Drawing.Size(48, 22);
+            this.aRTFillToolStripButton.Text = "ARTFill";
+            this.aRTFillToolStripButton.Click += new System.EventHandler(this.aRTFillToolStripButton_Click);
+            // 
+            // toolStripButton1
+            // 
+            this.toolStripButton1.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
+            this.toolStripButton1.Image = ((System.Drawing.Image)(resources.GetObject("toolStripButton1.Image")));
+            this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.toolStripButton1.Name = "toolStripButton1";
+            this.toolStripButton1.Size = new System.Drawing.Size(49, 22);
+            this.toolStripButton1.Text = "Default";
+            this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
+            // 
+            // RnrBooksForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(427, 359);
+            this.Controls.Add(this.aRTFillToolStrip);
             this.Controls.Add(iSBNLabel);
             this.Controls.Add(this.iSBNTextBox);
             this.Controls.Add(titleLabel);
@@ -305,11 +340,13 @@
             this.Controls.Add(this.addButton);
             this.Controls.Add(label1);
             this.Controls.Add(this.titleListingCB);
-            this.Name = "rnrBooksForm";
+            this.Name = "RnrBooksForm";
             this.Text = "RnrBooks";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.booksBindingSource)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.rnrBooksDataSet)).EndInit();
+            this.aRTFillToolStrip.ResumeLayout(false);
+            this.aRTFillToolStrip.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -334,6 +371,9 @@
         private System.Windows.Forms.TextBox subject_CodeTextBox;
         private System.Windows.Forms.TextBox shelf_LocationTextBox;
         private System.Windows.Forms.CheckBox fictionCheckBox;
+        private System.Windows.Forms.ToolStrip aRTFillToolStrip;
+        private System.Windows.Forms.ToolStripButton aRTFillToolStripButton;
+        private System.Windows.Forms.ToolStripButton toolStripButton1;
     }
 }
 

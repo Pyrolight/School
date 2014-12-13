@@ -311,5 +311,30 @@ namespace RnrBooks
                 MessageBox.Show("There is an error accessing the database, please contact the database administrator.\r\n\r\n" + ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
+
+        private void aRTFillToolStripButton_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                this.booksTableAdapter.ARTFill(this.rnrBooksDataSet.Books);
+            }
+            catch (System.Exception ex)
+            {
+                System.Windows.Forms.MessageBox.Show(ex.Message);
+            }
+
+        }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                this.booksTableAdapter.Fill(this.rnrBooksDataSet.Books);
+            }
+            catch (System.Exception ex)
+            {
+                System.Windows.Forms.MessageBox.Show(ex.Message);
+            }
+        }
     }
 }

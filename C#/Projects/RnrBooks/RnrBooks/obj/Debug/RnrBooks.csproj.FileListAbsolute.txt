@@ -9,3 +9,14 @@ c:\users\michael\documents\visual studio 2012\Projects\RnrBooks\RnrBooks\obj\Deb
 C:\Users\Michael\Documents\Visual Studio 2012\Projects\RnrBooks\RnrBooks\bin\Debug\RnrBooks.mdb
 C:\Users\Michael\Documents\Visual Studio 2012\Projects\RnrBooks\RnrBooks\bin\Debug\Program.cs
 C:\Users\Michael\Documents\Visual Studio 2012\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.rnrBooksForm.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\RnrBooks\RnrBooks\bin\Debug\RnrBooks.exe.config
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\RnrBooks\RnrBooks\bin\Debug\RnrBooks.mdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\RnrBooks\RnrBooks\bin\Debug\Program.cs
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\RnrBooks\RnrBooks\bin\Debug\RnrBooks.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\RnrBooks\RnrBooks\bin\Debug\RnrBooks.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.RnrBooksForm.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.csproj.GenerateResource.Cache

@@ -88,7 +88,18 @@
               <Mapping SourceColumn="Shelf_Location" DataSetColumn="Shelf_Location" />
               <Mapping SourceColumn="Fiction" DataSetColumn="Fiction" />
             </Mappings>
-            <Sources />
+            <Sources>
+              <DbSource ConnectionRef="RnrBooksConnectionString (Settings)" DbObjectName="Books" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="ARTFill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="ARTGet" GeneratorSourceName="ARTFill" GetMethodModifier="Public" GetMethodName="ARTGet" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="ARTGet" UserSourceName="ARTFill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        ISBN, Title, Author, Publisher, Subject_Code, Shelf_Location, Fiction
+FROM            Books
+WHERE        (Subject_Code = 'art')</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </Sources>
           </TableAdapter>
           <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="SubjectsTableAdapter" GeneratorDataComponentClassName="SubjectsTableAdapter" Name="Subjects" UserDataComponentName="SubjectsTableAdapter">
             <MainSource>
@@ -146,7 +157,7 @@
   <xs:element name="RnrBooksDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_DataSetName="RnrBooksDataSet" msprop:Generator_UserDSName="RnrBooksDataSet">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element name="Books" msprop:Generator_TableClassName="BooksDataTable" msprop:Generator_TableVarName="tableBooks" msprop:Generator_TablePropName="Books" msprop:Generator_RowDeletingName="BooksRowDeleting" msprop:Generator_RowChangingName="BooksRowChanging" msprop:Generator_RowEvHandlerName="BooksRowChangeEventHandler" msprop:Generator_RowDeletedName="BooksRowDeleted" msprop:Generator_UserTableName="Books" msprop:Generator_RowChangedName="BooksRowChanged" msprop:Generator_RowEvArgName="BooksRowChangeEvent" msprop:Generator_RowClassName="BooksRow">
+        <xs:element name="Books" msprop:Generator_TableClassName="BooksDataTable" msprop:Generator_TableVarName="tableBooks" msprop:Generator_RowChangedName="BooksRowChanged" msprop:Generator_TablePropName="Books" msprop:Generator_RowDeletingName="BooksRowDeleting" msprop:Generator_RowChangingName="BooksRowChanging" msprop:Generator_RowEvHandlerName="BooksRowChangeEventHandler" msprop:Generator_RowDeletedName="BooksRowDeleted" msprop:Generator_RowClassName="BooksRow" msprop:Generator_UserTableName="Books" msprop:Generator_RowEvArgName="BooksRowChangeEvent">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="ISBN" msprop:Generator_ColumnVarNameInTable="columnISBN" msprop:Generator_ColumnPropNameInRow="ISBN" msprop:Generator_ColumnPropNameInTable="ISBNColumn" msprop:Generator_UserColumnName="ISBN">
@@ -195,7 +206,7 @@
             </xs:sequence>
           </xs:complexType>
         </xs:element>
-        <xs:element name="Subjects" msprop:Generator_TableClassName="SubjectsDataTable" msprop:Generator_TableVarName="tableSubjects" msprop:Generator_TablePropName="Subjects" msprop:Generator_RowDeletingName="SubjectsRowDeleting" msprop:Generator_RowChangingName="SubjectsRowChanging" msprop:Generator_RowEvHandlerName="SubjectsRowChangeEventHandler" msprop:Generator_RowDeletedName="SubjectsRowDeleted" msprop:Generator_UserTableName="Subjects" msprop:Generator_RowChangedName="SubjectsRowChanged" msprop:Generator_RowEvArgName="SubjectsRowChangeEvent" msprop:Generator_RowClassName="SubjectsRow">
+        <xs:element name="Subjects" msprop:Generator_TableClassName="SubjectsDataTable" msprop:Generator_TableVarName="tableSubjects" msprop:Generator_RowChangedName="SubjectsRowChanged" msprop:Generator_TablePropName="Subjects" msprop:Generator_RowDeletingName="SubjectsRowDeleting" msprop:Generator_RowChangingName="SubjectsRowChanging" msprop:Generator_RowEvHandlerName="SubjectsRowChangeEventHandler" msprop:Generator_RowDeletedName="SubjectsRowDeleted" msprop:Generator_RowClassName="SubjectsRow" msprop:Generator_UserTableName="Subjects" msprop:Generator_RowEvArgName="SubjectsRowChangeEvent">
           <xs:complexType>
             <xs:sequence>
               <xs:element name="SubjectCode" msprop:Generator_ColumnVarNameInTable="columnSubjectCode" msprop:Generator_ColumnPropNameInRow="SubjectCode" msprop:Generator_ColumnPropNameInTable="SubjectCodeColumn" msprop:Generator_UserColumnName="SubjectCode">
