@@ -1,0 +1,15 @@
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\bin\Debug\StudentForm.exe.config
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\bin\Debug\StudentForm.exe
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\bin\Debug\StudentForm.pdb
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.exe
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.pdb
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\bin\Debug\GraduateStudentLibrary.dll
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\bin\Debug\StudentLibrary.dll
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\bin\Debug\UndergraduateStudentLibrary.dll
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\bin\Debug\GraduateStudentLibrary.pdb
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\bin\Debug\StudentLibrary.pdb
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\bin\Debug\UndergraduateStudentLibrary.pdb
+c:\users\michael\documents\visual studio 2012\Projects\StudentForm\StudentForm\obj\Debug\StudentForm.Presentation.resources

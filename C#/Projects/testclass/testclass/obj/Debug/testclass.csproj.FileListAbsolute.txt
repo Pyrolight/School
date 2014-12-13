@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2012\Projects\testclass\testclass\bin\Debug\testclass.exe.config
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\testclass\testclass\obj\Debug\testclass.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\testclass\testclass\obj\Debug\testclass.Form1.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\testclass\testclass\obj\Debug\testclass.Properties.Resources.resources
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\testclass\testclass\obj\Debug\testclass.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\testclass\testclass\bin\Debug\testclass.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\testclass\testclass\bin\Debug\testclass.pdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\testclass\testclass\obj\Debug\testclass.exe
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\testclass\testclass\obj\Debug\testclass.pdb

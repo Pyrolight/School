@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2012\Projects\RockyMountainOutfitters\RockyMountainOutfitters\bin\Debug\RockyMountainOutfitters.exe.config
+c:\users\michael\documents\visual studio 2012\Projects\RockyMountainOutfitters\RockyMountainOutfitters\bin\Debug\RockyMountainOutfitters.exe
+c:\users\michael\documents\visual studio 2012\Projects\RockyMountainOutfitters\RockyMountainOutfitters\bin\Debug\RockyMountainOutfitters.pdb
+c:\users\michael\documents\visual studio 2012\Projects\RockyMountainOutfitters\RockyMountainOutfitters\obj\Debug\RockyMountainOutfitters.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2012\Projects\RockyMountainOutfitters\RockyMountainOutfitters\obj\Debug\RockyMountainOutfitters.orderForm.resources
+c:\users\michael\documents\visual studio 2012\Projects\RockyMountainOutfitters\RockyMountainOutfitters\obj\Debug\RockyMountainOutfitters.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2012\Projects\RockyMountainOutfitters\RockyMountainOutfitters\obj\Debug\RockyMountainOutfitters.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2012\Projects\RockyMountainOutfitters\RockyMountainOutfitters\obj\Debug\RockyMountainOutfitters.exe
+c:\users\michael\documents\visual studio 2012\Projects\RockyMountainOutfitters\RockyMountainOutfitters\obj\Debug\RockyMountainOutfitters.pdb

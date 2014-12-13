@@ -1,0 +1,9 @@
+c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\bin\Debug\Testredux.exe.config
+c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\bin\Debug\Testredux.exe
+c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\bin\Debug\Testredux.pdb
+c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\obj\Debug\Testredux.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\obj\Debug\Testredux.randysSportingConsulting.resources
+c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\obj\Debug\Testredux.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\obj\Debug\Testredux.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\obj\Debug\Testredux.exe
+c:\users\michael\documents\visual studio 2012\Projects\Testredux\Testredux\obj\Debug\Testredux.pdb

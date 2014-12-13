@@ -21,3 +21,6 @@ C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMi
 C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.csproj.GenerateResource.Cache
 C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.exe
 C:\Users\mfesser\Documents\Visual Studio 2012\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\PizzaInAMinute\PizzaInAMinute\bin\Debug\PizzaInAMinute.exe.config
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\PizzaInAMinute\PizzaInAMinute\obj\Debug\PizzaInAMinute.pdb

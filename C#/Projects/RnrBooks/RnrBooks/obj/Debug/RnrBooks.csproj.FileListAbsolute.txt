@@ -1,0 +1,11 @@
+c:\users\michael\documents\visual studio 2012\Projects\RnrBooks\RnrBooks\bin\Debug\RnrBooks.exe.config
+c:\users\michael\documents\visual studio 2012\Projects\RnrBooks\RnrBooks\bin\Debug\RnrBooks.exe
+c:\users\michael\documents\visual studio 2012\Projects\RnrBooks\RnrBooks\bin\Debug\RnrBooks.pdb
+c:\users\michael\documents\visual studio 2012\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2012\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2012\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.exe
+c:\users\michael\documents\visual studio 2012\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.pdb
+c:\users\michael\documents\visual studio 2012\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\RnrBooks\RnrBooks\bin\Debug\RnrBooks.mdb
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\RnrBooks\RnrBooks\bin\Debug\Program.cs
+C:\Users\Michael\Documents\Visual Studio 2012\Projects\RnrBooks\RnrBooks\obj\Debug\RnrBooks.rnrBooksForm.resources

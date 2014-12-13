@@ -1,0 +1,10 @@
+c:\users\michael\documents\visual studio 2012\Projects\Dataaccess\Dataaccess\bin\Debug\Dataaccess.exe.config
+c:\users\michael\documents\visual studio 2012\Projects\Dataaccess\Dataaccess\bin\Debug\Dataaccess.exe
+c:\users\michael\documents\visual studio 2012\Projects\Dataaccess\Dataaccess\bin\Debug\Dataaccess.pdb
+c:\users\michael\documents\visual studio 2012\Projects\Dataaccess\Dataaccess\obj\Debug\Dataaccess.Form1.resources
+c:\users\michael\documents\visual studio 2012\Projects\Dataaccess\Dataaccess\obj\Debug\Dataaccess.Properties.Resources.resources
+c:\users\michael\documents\visual studio 2012\Projects\Dataaccess\Dataaccess\obj\Debug\Dataaccess.csproj.GenerateResource.Cache
+c:\users\michael\documents\visual studio 2012\Projects\Dataaccess\Dataaccess\obj\Debug\Dataaccess.exe
+c:\users\michael\documents\visual studio 2012\Projects\Dataaccess\Dataaccess\obj\Debug\Dataaccess.pdb
+c:\users\michael\documents\visual studio 2012\Projects\Dataaccess\Dataaccess\obj\Debug\Dataaccess.csprojResolveAssemblyReference.cache
+c:\users\michael\documents\visual studio 2012\Projects\Dataaccess\Dataaccess\bin\Debug\RnrBooks.mdb
