@@ -8,3 +8,6 @@ c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\Cu
 c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.csproj.GenerateResource.Cache
 c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.exe
 c:\users\mfesser\documents\visual studio 2012\Projects\Class\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\CustomerDatabase\CustomerDatabase\bin\Debug\CustomerDatabase.exe.config
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Lab Samples\CustomerDatabase\CustomerDatabase\obj\Debug\CustomerDatabase.pdb

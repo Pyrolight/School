@@ -1,0 +1,11 @@
+c:\users\michael\documents\visual studio 2012\Projects\3Tier\3Tier\bin\Debug\3Tier.exe.config
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\3Tier\3Tier\bin\Debug\3Tier.exe.config
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\3Tier\3Tier\bin\Debug\RnrBooks.mdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\3Tier\3Tier\bin\Debug\3Tier.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\3Tier\3Tier\bin\Debug\3Tier.pdb
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\3Tier\3Tier\obj\Debug\3Tier.csprojResolveAssemblyReference.cache
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\3Tier\3Tier\obj\Debug\_3Tier.Form1.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\3Tier\3Tier\obj\Debug\_3Tier.Properties.Resources.resources
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\3Tier\3Tier\obj\Debug\3Tier.csproj.GenerateResource.Cache
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\3Tier\3Tier\obj\Debug\3Tier.exe
+C:\Users\Michael\Documents\GitHub\School\C#\Projects\3Tier\3Tier\obj\Debug\3Tier.pdb
